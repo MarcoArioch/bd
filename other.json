@@ -1,0 +1,56 @@
+[
+
+ {    
+    "nada": 0,
+    "store": "GoG",
+    "name": "GWENT: The Witcher\nCard Game",
+    "image":
+    "https://images.gog-statics.com/c3a7e91d62f0d7b7678910f28a965b87ff3e7a1ce3481ecd0a13745c3474b970_product_card_v2_logo_480x285.png",
+    "description":
+    " ",
+    "price": "??.??",
+    "date": "2020",
+    "url": "https://www.gog.com/game/gwent_the_witcher_card_game"
+ }
+ ,
+
+ {    
+    "nada": 0,
+    "store": "GoG",
+    "name": "Hello Neighbor",
+    "image":
+    "https://images-3.gog-statics.com/818658294fc9ed5ce966acf2792e93aa8cb6d4776813071c6774b93c73d0f6f5_100.jpg",
+    "description":
+    " ",
+    "price": "??.??",
+    "date": "2020",
+    "url": "https://www.gog.com/game/hello_neighbor_demo"
+ }
+,
+
+ { 
+    "nada": 0,
+    "store": "Steam",
+    "name": "PAYDAY 2 DLCS",
+    "image":
+    "https://www.overkillsoftware.com/payday2-social-safe/img/pd2-socialmedia.png",
+    "description":
+    " ",
+    "price": "$??",
+    "date": "?? 2020",
+    "url": "https://www.overkillsoftware.com/payday2-social-safe/"
+      },  
+ 
+ {    
+    "nada": 1,
+    "store": "Steam",
+    "name": "No Games Found",
+    "image":
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
+    "description":
+    " ",
+    "price": " ",
+    "date": " ",
+    "url": "https://www.google.com"
+  }
+]

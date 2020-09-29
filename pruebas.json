@@ -1,0 +1,26 @@
+[
+ {    
+    "nada": 0,
+    "store": "esta",
+    "name": "pruebas",
+    "image":
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
+    "description":
+    " ",
+    "price": " ",
+    "date": " ",
+    "url": "https://www.google.com"
+  }
+ {    
+    "nada": 1,
+    "store": "Steam",
+    "name": "No Games Found",
+    "image":
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
+    "description":
+    " ",
+    "price": " ",
+    "date": " ",
+    "url": "https://www.google.com"
+  }
+]
