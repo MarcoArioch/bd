@@ -1,0 +1,29 @@
+[
+    { 
+    "nada": 0,
+    "store": "Steam",
+    "name": "Left 4 Dead 2",
+    "image":
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg?t=1600967654",
+    "description":
+    " ",
+    "price": "$1.00",
+    "date": "Sep 27, 2020",
+    "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/"
+      },  
+
+
+  { 
+    "nada": 0,
+    "store": "Star Citizen",
+    "name": "Star Citizen",
+    "image":
+    "https://robertsspaceindustries.com/rsi/static/packages/platformbar/sc.png",
+    "description":
+    " ",
+    "price": "$??.??",
+    "date": "Sep 23, 2020",
+    "url": "https://robertsspaceindustries.com/promotions/ShipShowdown-Free-Fly"
+      }
+
+]

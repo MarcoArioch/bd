@@ -1,0 +1,39 @@
+[
+  { 
+    "nada": 0,
+    "store": "Steam",
+    "name": "Scrap Garden",
+    "image":
+    "https://cdn.cloudflare.steamstatic.com/steam/apps/465760/header.jpg?t=1599774123",
+    "description":
+    " ",
+    "price": "$4.99",
+    "date": "27 2020",
+    "url": "https://store.steampowered.com/app/465760/Scrap_Garden/"
+      },  
+ { 
+    "nada": 0,
+    "store": "Uplay",
+    "name": "Tom Clancy's The Division",
+    "image":
+    "https://upload.wikimedia.org/wikipedia/pt/6/63/The_division_capa.jpg",
+    "description":
+    " ",
+    "price": "$14.99",
+    "date": "Sep 07, 2020",
+    "url": "https://register.ubisoft.com/the-division/"
+      },  
+ 
+  { 
+    "nada": 0,
+    "store": "Humble Bundle / Steam Key",
+    "name": "F1 2018",
+    "image":
+    "https://cdn.atomix.vg/wp-content/uploads/2018/08/Review-F1-2018.png",
+    "description":
+    " ",
+    "price": "$14.99",
+    "date": "Ago 17, 2020",
+    "url": "https://register.ubisoft.com/the-division/"
+      }
+]
