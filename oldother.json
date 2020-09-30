@@ -1,6 +1,7 @@
 [
   { 
-    "nada": 1,
+    "coming":1,
+    "nada": 0,
     "store": "Steam",
     "name": "Scrap Garden",
     "image":
@@ -12,6 +13,7 @@
     "url": "https://store.steampowered.com/app/465760/Scrap_Garden/"
       },  
  { 
+    "coming":0,
     "nada": 0,
     "store": "Uplay",
     "name": "Tom Clancy's The Division",
@@ -25,6 +27,7 @@
       },  
  
   { 
+    "coming":0,
     "nada": 0,
     "store": "Humble Bundle / Steam Key",
     "name": "F1 2018",
