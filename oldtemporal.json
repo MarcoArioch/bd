@@ -1,6 +1,6 @@
 [
     { 
-    "nada": 0,
+    "nada": 1,
     "store": "Steam",
     "name": "Left 4 Dead 2",
     "image":
@@ -14,7 +14,7 @@
 
 
   { 
-    "nada": 0,
+    "nada": 1,
     "store": "Star Citizen",
     "name": "Star Citizen",
     "image":
