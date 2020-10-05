@@ -27,6 +27,20 @@
     "url": "https://store.steampowered.com/app/1310520/Occupy_Mars_Prologue/"
   }
  ,
+    {
+    "nada": 0,
+    "store": "Epic Store",
+    "coming": 0,
+    "name": "Occupy Mars: Prologue",
+    "image":
+    "https://cdn2.unrealengine.com/roco-egs-basegame-productlogo-400x400-400x400-491680524.png",
+    "description":
+    "",
+    "price": "$0.00",
+    "date": "2020",
+    "url": "https://www.epicgames.com/store/en-US/product/rogue-company/home"
+  }
+ ,
 { 
     "nada": 0,
     "store": "Steam",
