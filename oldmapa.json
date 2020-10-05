@@ -4,7 +4,7 @@
     "coming": 1,
     "name": "ABZU",
     "image":
-    "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
     "description":
     "",
     "price": "$7.50",
@@ -16,7 +16,7 @@
     "coming": 1,
     "name": "Rising Storm 2: Vietnam",
     "image":
-    "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S3-2560x1440-e08edd93cb71bf15b50a74f3de2d17b0.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RisingStorm2Vietnam.jpg",
     "description":
     "",
     "price": "$10.50",
@@ -28,7 +28,7 @@
     "coming": 0,
     "name": "Complete Edition of \nRollerCoaster Tycoon 3",
     "image":
-    "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RollerCoasterTycoon3CompleteEdition.jpg",
     "description":
     "",
     "price": "$4.50",
@@ -40,7 +40,7 @@
     "coming": 0,
     "name": "Football Manager 2020",
     "image":
-    "https://cdn1.epicgames.com/c1ccf2ba1bc1473abb6ca5168e1a670c/offer/EGS_FootballManager2020_SportsInteractive_S2-1200x1600-458c5f71663d769a40cbac02466d51db.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_FootballManager2020.jpg",
     "description":
     "",
     "price": "$35.00",
@@ -64,7 +64,7 @@
     "coming": 0,
     "name": "Stick It To The Man!",
     "image":
-    "https://cdn1.epicgames.com/ad876f7812c946f6a362bf821b971b48/offer/EGS_StickItToTheMan_Zoink_S2-1200x1600-8847a93af4bb5939f82c50932e3a876e.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_StickItToTheMan.jpg",
     "description":
     "Hard hat tester, Ray, has a bizarre accident and wakes up with a giant pink spaghetti arm sticking out of his brain!",
     "price": "$3.00",
@@ -76,7 +76,7 @@
     "coming": 0,
     "name": "Railway Empire",
     "image":
-    "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_RailwayEmpire_GamingMindsStudios_S2-1200x1600-aa3f6d77c91bd7801de2f530ca7faca6.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_RailwayEmpire.jpg",
     "description":
     "Da igual",
     "price": "$13.16",
@@ -88,7 +88,7 @@
     "coming": 0,
     "name": "Where The Water\nTastes Likes Wine",
     "image":
-    "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Where%20The%20WaternTastes%20Likes%20Wine.jpg",
     "description":
     "Da igual",
     "price": "$7.61",
@@ -100,26 +100,13 @@
     "coming": 0,
     "name": "Into The Breach",
     "image":
-    "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_SubsetGames_IntotheBreach.jpg",
     "description":
     "Control. powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
     "price": "$8.08",
     "date": "Sep 10, 2020",
     "url": "https://www.epicgames.com/store/en-US/product/into-the-breach/home"
   },
-  
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Where the Water\nTastes Like Wine",
-    "image":
-    "https://cdn1.epicgames.com/27d2f156f77b4202b9bc78e40a408b03/offer/EGS_WhereTheWaterTastesLikeWine_DimBulbGames_S2-1200x1600-b14d1a4d99a370f387e5e63e53d53a30.jpg",
-    "description":
-    "Da igual",
-    "price": "$00.00",
-    "date": "Sep 10, 2020",
-    "url": "https://www.epicgames.com/store/en-US/product/where-the-water-tastes-like-wine/home"
-   },
  
  {
     "store": "equis",
