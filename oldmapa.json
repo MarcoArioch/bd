@@ -113,7 +113,7 @@
     "coming": 0,
     "name": "Grand Theft Auto V:\nPremium Edition",
     "image":
-    "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/GTAV_EGS.jpg",
     "description":
     "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. ",
     "price": "$19.99",
@@ -126,7 +126,7 @@
     "coming": 0,
     "name": "ARK: Survival Evolved",
     "image":
-    "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S2-1200x1600-5b58fdefea9f885c7426e894a1034921.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_ARKSurvivalEvolved.jpg",
     "description":
     "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! ",
     "price": "$24.99",
@@ -139,7 +139,7 @@
     "coming": 0,
     "name": "Hitman",
     "image":
-    "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhitman%2Fhome%2FEGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-90e70a51380bd7f19f78154d45f460707499e3ad.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Hitchman.jpg",
     "description":
     "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! ",
     "price": "$14.99",
@@ -152,7 +152,7 @@
     "coming": 0,
     "name": "Just Cause 4",
     "image":
-    "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/JC4..jpg",
     "description":
     "",
     "price": "$14.99",
