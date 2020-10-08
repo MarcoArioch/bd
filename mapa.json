@@ -1,18 +1,29 @@
 [
-   {
+{
     "store": "equis",
     "coming": 0,
-    "name": "Pikuniku",
+    "name": "ABZU",
     "image":
-    "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
     "description":
     "",
-    "price": "$0.00",
-    "date": "Oct 11, 2020",
-    "url": "https://www.epicgames.com/store/en-US/product/pikuniku/home"
-  },    
+    "price": "$7.50",
+    "date": "Oct 15, 2020",
+    "url": "https://www.epicgames.com/store/es-MX/product/abzu/home"
+  },
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "Rising Storm 2: Vietnam",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RisingStorm2Vietnam.jpg",
+    "description":
+    "",
+    "price": "$10.50",
+    "date": "Oct 15, 2020",
+    "url": "https://www.epicgames.com/store/es-MX/product/rising-storm-2-vietnam/home"
+  },
 
- 
     {
     "store": "equis",
     "coming": 0,
