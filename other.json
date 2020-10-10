@@ -4,8 +4,8 @@
     "store": "Steam",
     "name": "Sonic\nThe Hedgehog 2",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/sonic2.jpg",
-    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/sonic2.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sonic2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/sonic2.jpg", 
     "description":
     " ",
     "price": "$0.49",
@@ -18,8 +18,8 @@
     "store": "GoG",
     "name": "GWENT: The Witcher\nCard Game",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/gwent.jpg",
-    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/gwent.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/gwent.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/gwent.jpg", 
     "description":
     " ",
     "price": "??.??",
@@ -33,8 +33,8 @@
     "store": "GoG",
     "name": "Hello Neighbor",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/helloneighbor.jpg",
-    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/helloneighbor.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/helloneighbor.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/helloneighbor.jpg", 
     "description":
     " ",
     "price": "??.??",
@@ -48,8 +48,8 @@
     "store": "Steam",
     "name": "PAYDAY 2 DLCS",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/pd2-socialmedia.jpg",
-    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/pd2-socialmedia.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/pd2-socialmedia.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/pd2-socialmedia.jpg", 
     "description":
     " ",
     "price": "$??",
@@ -62,8 +62,8 @@
     "store": "Steam",
     "name": "No Games Found",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
-    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/white.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/white.jpg", 
     "description":
     " ",
     "price": " ",
