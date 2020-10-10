@@ -11,6 +11,19 @@
     "date": "Oct 15, 2020",
     "url": "https://www.epicgames.com/store/es-MX/product/abzu/home"
   },
+
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "ABZU",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/Abzu.jpg",
+    "description":
+    "",
+    "price": "$7.50",
+    "date": "Oct 15, 2020",
+    "url": "https://www.epicgames.com/store/es-MX/product/abzu/home"
+  },
 {
     "store": "equis",
     "coming": 0,
