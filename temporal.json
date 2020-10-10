@@ -5,7 +5,7 @@
     "store": "Steam",
     "name": "Total War: \nWARHAMMER II",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/594570/header_alt_assets_9.jpg?t=1602263443",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/header_alt_assets_9.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/header_alt_assets_9.jpg",
     "description":
     " ",
@@ -18,8 +18,8 @@
     "store": "Steam",
     "name": "Prison Architect",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/233450/header.jpg?t=1601656764",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/prisionarc.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/prisionarc.jpg", 
     "description":
     " ",
     "price": "$2.49",
@@ -31,7 +31,7 @@
     "store": "Steam",
     "name": "",
     "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
     "background": "", 
     "description":
     " ",
