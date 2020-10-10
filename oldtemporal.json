@@ -5,8 +5,8 @@
     "store": "Steam",
     "name": "Cook, Serve,\nDelicious! 2!!",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/386620/header.jpg?t=1601489683",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/delicious2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/delicious2.jpg", 
     "description":
     " ",
     "price": "$1.49",
@@ -19,8 +19,8 @@
     "store": "Steam",
     "name": "Left 4 Dead 2",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg?t=1600967654",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/l4d2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/l4d2.jpg", 
     "description":
     " ",
     "price": "$1.00",
@@ -35,8 +35,8 @@
     "store": "Star Citizen",
     "name": "Star Citizen",
     "image":
-    "https://robertsspaceindustries.com/rsi/static/packages/platformbar/sc.png",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sc.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sc.jpg",
     "description":
     " ",
     "price": "$??.??",
