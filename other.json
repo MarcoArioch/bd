@@ -4,8 +4,8 @@
     "store": "Steam",
     "name": "Sonic\nThe Hedgehog 2",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/71163/header_alt_assets_0.jpg?t=1602263265",
-    "background": "", 
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/sonic2.jpg",
+    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/sonic2.jpg", 
     "description":
     " ",
     "price": "$0.49",
@@ -18,8 +18,8 @@
     "store": "GoG",
     "name": "GWENT: The Witcher\nCard Game",
     "image":
-    "https://images.gog-statics.com/c3a7e91d62f0d7b7678910f28a965b87ff3e7a1ce3481ecd0a13745c3474b970_product_card_v2_logo_480x285.png",
-    "background": "", 
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/gwent.jpg",
+    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/gwent.jpg", 
     "description":
     " ",
     "price": "??.??",
@@ -33,8 +33,8 @@
     "store": "GoG",
     "name": "Hello Neighbor",
     "image":
-    "https://images-3.gog-statics.com/818658294fc9ed5ce966acf2792e93aa8cb6d4776813071c6774b93c73d0f6f5_100.jpg",
-    "background": "", 
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/helloneighbor.jpg",
+    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/helloneighbor.jpg", 
     "description":
     " ",
     "price": "??.??",
@@ -48,8 +48,8 @@
     "store": "Steam",
     "name": "PAYDAY 2 DLCS",
     "image":
-    "https://www.overkillsoftware.com/payday2-social-safe/img/pd2-socialmedia.png",
-    "background": "", 
+    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/pd2-socialmedia.jpg",
+    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/pd2-socialmedia.jpg", 
     "description":
     " ",
     "price": "$??",
@@ -63,7 +63,7 @@
     "name": "No Games Found",
     "image":
     "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/fondos/white.jpg", 
     "description":
     " ",
     "price": " ",
