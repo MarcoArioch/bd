@@ -5,7 +5,7 @@
     "name": "ABZU",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/Abzu.jpg", 
     "description":
     "",
     "price": "$7.50",
@@ -19,7 +19,7 @@
     "name": "Rising Storm 2:\nVietnam",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RisingStorm2Vietnam.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/RisingStorm2Vietnam.jpg", 
     "description":
     "",
     "price": "$10.50",
@@ -33,7 +33,7 @@
     "name": "Rocket League",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rocketLeague.jpg", 
     "description":
     "",
     "price": "$0.00",
