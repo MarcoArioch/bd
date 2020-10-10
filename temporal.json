@@ -6,7 +6,7 @@
     "name": "Total War: \nWARHAMMER II",
     "image":
     "https://cdn.cloudflare.steamstatic.com/steam/apps/594570/header_alt_assets_9.jpg?t=1602263443",
-    "background": "",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/header_alt_assets_9.jpg",
     "description":
     " ",
     "price": "$10.49",
