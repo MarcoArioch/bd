@@ -5,6 +5,7 @@
     "name": "ABZU",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
+    "background": "", 
     "description":
     "",
     "price": "$7.50",
@@ -17,6 +18,7 @@
     "name": "Rising Storm 2: Vietnam",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RisingStorm2Vietnam.jpg",
+    "background": "", 
     "description":
     "",
     "price": "$10.50",
@@ -29,6 +31,7 @@
     "name": "Complete Edition of \nRollerCoaster Tycoon 3",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RollerCoasterTycoon3CompleteEdition.jpg",
+    "background": "", 
     "description":
     "",
     "price": "$4.50",
@@ -41,6 +44,7 @@
     "name": "Football Manager 2020",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_FootballManager2020.jpg",
+    "background": "", 
     "description":
     "",
     "price": "$35.00",
@@ -53,6 +57,7 @@
     "name": "Watch Dogs 2",
     "image":
     "https://cdn1.epicgames.com/epic/offer/WatchDogs2_Logo_White-2208x368-af0e8beb8ed46fb18607855cf6a7ba73.png",
+    "background": "", 
     "description":
     "",
     "price": "$45.00",
@@ -65,6 +70,7 @@
     "name": "Stick It To The Man!",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_StickItToTheMan.jpg",
+    "background": "", 
     "description":
     "Hard hat tester, Ray, has a bizarre accident and wakes up with a giant pink spaghetti arm sticking out of his brain!",
     "price": "$3.00",
@@ -77,6 +83,7 @@
     "name": "Railway Empire",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_RailwayEmpire.jpg",
+    "background": "", 
     "description":
     "Da igual",
     "price": "$13.16",
@@ -89,6 +96,7 @@
     "name": "Where The Water\nTastes Likes Wine",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Where%20The%20WaternTastes%20Likes%20Wine.jpg",
+    "background": "", 
     "description":
     "Da igual",
     "price": "$7.61",
@@ -101,6 +109,7 @@
     "name": "Into The Breach",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_SubsetGames_IntotheBreach.jpg",
+    "background": "", 
     "description":
     "Control. powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.",
     "price": "$8.08",
@@ -114,6 +123,7 @@
     "name": "Grand Theft Auto V:\nPremium Edition",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/GTAV_EGS.jpg",
+    "background": "", 
     "description":
     "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. ",
     "price": "$19.99",
@@ -127,6 +137,7 @@
     "name": "ARK: Survival Evolved",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/EGS_ARKSurvivalEvolved.jpg",
+    "background": "", 
     "description":
     "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! ",
     "price": "$24.99",
@@ -140,6 +151,7 @@
     "name": "Hitman",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Hitchman.jpg",
+    "background": "", 
     "description":
     "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! ",
     "price": "$14.99",
@@ -153,6 +165,7 @@
     "name": "Just Cause 4",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/JC4..jpg",
+    "background": "", 
     "description":
     "",
     "price": "$14.99",

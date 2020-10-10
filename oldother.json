@@ -6,6 +6,7 @@
     "name": "Scrap Garden",
     "image":
     "https://cdn.cloudflare.steamstatic.com/steam/apps/465760/header.jpg?t=1599774123",
+    "background": "", 
     "description":
     " ",
     "price": "$4.99",
@@ -19,6 +20,7 @@
     "name": "Tom Clancy's The Division",
     "image":
     "https://upload.wikimedia.org/wikipedia/pt/6/63/The_division_capa.jpg",
+    "background": "", 
     "description":
     " ",
     "price": "$14.99",
@@ -33,6 +35,7 @@
     "name": "F1 2018",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Review-F1-2018.jpg",
+    "background": "", 
     "description":
     " ",
     "price": "$14.99",
