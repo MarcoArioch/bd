@@ -32,7 +32,7 @@
     "name": "",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/white.jpg", 
     "description":
     " ",
     "price": " ",
