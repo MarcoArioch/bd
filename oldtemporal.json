@@ -35,8 +35,8 @@
     "store": "Star Citizen",
     "name": "Star Citizen",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sc.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sc.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sc.png",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/sc.jpg",
     "description":
     " ",
     "price": "$??.??",
