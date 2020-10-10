@@ -6,7 +6,7 @@
     "name": "Rocket League",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rocketLeague.jpg", 
     "description":
     "",
     "price": "$0.00",
@@ -20,8 +20,8 @@
     "coming": 0,
     "name": "Occupy Mars:\nPrologue",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/1310520/header_alt_assets_0.jpg?t=1599217651",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg", 
     "description":
     "",
     "price": "$0.00",
@@ -35,8 +35,8 @@
     "coming": 0,
     "name": "Rogue Company",
     "image":
-    "https://cdn2.unrealengine.com/roco-egs-basegame-productlogo-400x400-400x400-491680524.png",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rogue.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rogue.jpg", 
     "description":
     "",
     "price": "$0.00",
@@ -49,8 +49,8 @@
     "store": "Steam",
     "name": "DC Universe™ Online",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/24200/header.jpg?t=1596134006",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/dcuniversonline.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/dcuniversonline.jpg", 
     "description":
     " ",
     "price": "$0.00",
