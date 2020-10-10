@@ -5,8 +5,8 @@
     "store": "Steam",
     "name": "Scrap Garden",
     "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/465760/header.jpg?t=1599774123",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/scrapgarden.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/scrapgarden.jpg", 
     "description":
     " ",
     "price": "$4.99",
@@ -19,8 +19,8 @@
     "store": "Uplay",
     "name": "Tom Clancy's\nThe Division",
     "image":
-    "https://upload.wikimedia.org/wikipedia/pt/6/63/The_division_capa.jpg",
-    "background": "", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/The_division.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/The_division.jpg", 
     "description":
     " ",
     "price": "$14.99",
@@ -35,7 +35,7 @@
     "name": "F1 2018",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Review-F1-2018.jpg",
-    "background": "", 
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/Review-F1-2018.jpg", 
     "description":
     " ",
     "price": "$14.99",
