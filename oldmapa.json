@@ -6,8 +6,7 @@
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/amnesia.jpg", 
-    "description":
-    "",
+    "description": "",
     "price": "$4.99",
     "date": "Oct 22, 2020",
     "url": "https://bit.ly/EPICAMNESIA"
@@ -17,10 +16,9 @@
     "coming": 0,
     "name": "Kingdom New Lands",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/kingdomnewlands.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/kingdomnewlands.png", 
-    "description":
-    "",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.png", 
+    "description": "",
     "price": "$4.99",
     "date": "Oct 22, 2020",
     "url": "https://bit.ly/EPICKingdomNewLands"
@@ -29,10 +27,8 @@
     "store": "equis",
     "coming": 0,
     "name": "Pikuniku",
-    "image":
-    "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
-    "description":
-    "",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
+    "description": "",
     "price": "$0.00",
     "date": "Oct 11, 2020",
     "url": "https://www.epicgames.com/store/en-US/product/pikuniku/home"
