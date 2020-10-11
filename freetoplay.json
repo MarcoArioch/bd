@@ -16,7 +16,7 @@
     "nada": 1,
     "store": "Steam",
     "name": "No Games Found",
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/white.jpg", 
     "description":"",
     "price": "",
