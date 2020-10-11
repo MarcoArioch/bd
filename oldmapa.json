@@ -1,25 +1,11 @@
 [
-
 {
     "store": "equis",
     "coming": 1,
     "name": "Amnesia:\nA Machine for Pigs",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/amnesia.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/amnesia.jpg", 
-    "description":
-    "",
-    "price": "$0.00",
-    "date": "Oct 22, 2020",
-    "url": "https://bit.ly/EPICAMNESIA"
-  },  
-{
-    "store": "equis",
-    "coming": 1,
-    "name": "Amnesia:\nA Machine for Pigs",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/amnesia.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/amnesia.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/amnesia.jpg", 
     "description":
     "",
     "price": "$4.99",
@@ -38,6 +24,18 @@
     "price": "$4.99",
     "date": "Oct 22, 2020",
     "url": "https://bit.ly/EPICKingdomNewLands"
+  },   
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "Pikuniku",
+    "image":
+    "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
+    "description":
+    "",
+    "price": "$0.00",
+    "date": "Oct 11, 2020",
+    "url": "https://www.epicgames.com/store/en-US/product/pikuniku/home"
   },   
 {
     "store": "equis",
