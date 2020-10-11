@@ -4,155 +4,136 @@
     "store": "Epic Games",
     "coming": 0,
     "name": "Rocket League",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rocketLeague.jpg", 
-    "description":
-    "",
+    "description": "",
     "price": "$0.00",
     "date": "2020",
     "url": "http://bit.ly/F2PRocketleague"
-  }
- ,
+  },
     {
     "nada": 0,
     "store": "Steam",
     "coming": 0,
     "name": "Occupy Mars:\nPrologue",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg", 
-    "description":
-    "",
+    "description": "",
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/3iIwDyE"
-  }
- ,
+  },
     {
     "nada": 0,
     "store": "Epic Store",
     "coming": 0,
     "name": "Rogue Company",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rogue.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rogue.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rogue.jpg", 
-    "description":
-    "",
+    "description":"",
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/36PKAZj"
-  }
- ,
-
- {    
+  },
+    {    
     "nada": 0,
     "store": "GoG",
     "coming": 0,
     "name": "Hello Neighbor\nAlpha Version",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/helloneighbor.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/helloneighbor.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/helloneighbor.jpg", 
-    "description":
-    " ",
+    "description": "",
     "price": "??.??",
     "date": "2020",
     "url": "https://bit.ly/3lypfYh"
- }
-,
- {    
+ },
+    {    
     "nada": 0,
     "store": "GoG",
      "coming": 0,
     "name": "GWENT: The Witcher\nCard Game",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/gwent.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/gwent.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/gwent.jpg", 
-    "description":
-    " ",
+    "description": "",
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/3jQW9D1"
- }
- ,
-
-{ 
+ },
+    { 
     "nada": 0,
     "store": "Steam",
     "name": "DC Universe™ Online",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/dcuniversonline.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/dcuniversonline.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/dcuniversonline.jpg", 
-    "description":
-    " ",
+    "description": "",
     "price": "$0.00",
     "date": "2 NOV 2011",
     "url": "https://bit.ly/2I90uUb"
-      },
-{ 
+},
+    { 
     "nada": 0,
     "store": "Steam",
     "name": "Isles of Limbo",
-    "image":
-    "https://steamcdn-a.akamaihd.net/steam/apps/1389260/header.jpg?t=1599165696",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/1389260/header.jpg?t=1599165696",
     "background": "", 
-    "description":
-    " ",
+    "description": "",
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/3dhntI6"
-      },
-{ 
+},
+    { 
     "nada": 0,
     "store": "Steam",
     "name": "Crossout",
-    "image":
-    "https://steamcdn-a.akamaihd.net/steam/apps/386180/header.jpg?t=1600928840",
+    "image": "https://steamcdn-a.akamaihd.net/steam/apps/386180/header.jpg?t=1600928840",
     "background": "", 
-    "description":
-    " ",
+    "description": "",
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/2GXS2GF"
-      },
-{ 
-    "nada": 0,
-    "store": "Steam",
-    "name": "Death Rally (Classic)",
-    "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/358270/capsule_231x87.jpg",
-    "background": "", 
-    "description":
-    " ",
-    "price": "$0.00",
-    "date": "Sep 30, 2020",
-    "url": "https://bit.ly/3jPPxFa"
-      },  
-
- { 
+},
+    { 
     "nada": 0,
     "store": "Steam",
     "name": "HOME",
-    "image":
-    "https://cdn.cloudflare.steamstatic.com/steam/apps/1067900/header.jpg",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1067900/header.jpg",
     "background": "", 
-    "description":
-    " ",
+    "description": "",
     "price": "$??",
     "date": "2020",
     "url": "https://bit.ly/3nHOidE"
-      }, 
- {    
+},
+    { 
+    "nada": 0,
+    "store": "Steam",
+    "name": "Death Rally (Classic)",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/358270/capsule_231x87.jpg",
+    "background": "", 
+    "description": "",
+    "price": "$0.00",
+    "date": "Sep 30, 2020",
+    "url": "https://bit.ly/3jPPxFa"
+},
+    { 
+    "nada": 0,
+    "store": "GoG",
+    "name": "Sang-Froid:\nTales of Werewolves",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/2020/10/SangFroidTalesofWerewolves.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/2020/10/bg/SangFroidTalesofWerewolves.jpg", 
+    "description":"",
+    "price": "$0.00",
+    "date": "2013",
+    "url": "https://bit.ly/3nEPKxe"
+},  
+    {  
     "nada": 1,
     "store": "Steam",
     "name": "No Games Found",
-    "image":
-    "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
+    "image": "https://raw.githubusercontent.com/zaragozabraham/db/master/images/white.jpg",
     "background": "", 
-    "description":
-    " ",
-    "price": " ",
-    "date": " ",
+    "description":"",
+    "price": "",
+    "date": "",
     "url": "https://www.google.com"
  }
 
