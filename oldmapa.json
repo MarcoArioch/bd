@@ -2,7 +2,7 @@
 
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Amnesia:\nA Machine for Pigs",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/amnesia.jpg",
@@ -15,7 +15,7 @@
   },  
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Amnesia:\nA Machine for Pigs",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/amnesia.jpg",
