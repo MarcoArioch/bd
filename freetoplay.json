@@ -117,6 +117,17 @@
     { 
     "nada": 0,
     "store": "GoG",
+    "name": "Ascendant",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/Ascendant.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/Ascendant.jpg", 
+    "description":"",
+    "price": "$0.00",
+    "date": "2013",
+    "url": "https://bit.ly/3nEPKxe"
+},  
+    { 
+    "nada": 0,
+    "store": "GoG",
     "name": "Sang-Froid:\nTales of Werewolves",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/SangFroidTalesofWerewolves.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/SangFroidTalesofWerewolves.jpg", 
