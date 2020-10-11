@@ -44,6 +44,38 @@
     "url": "https://www.epicgames.com/store/en-US/product/rogue-company/home"
   }
  ,
+
+ {    
+    "nada": 0,
+    "store": "GoG",
+    "coming": 0,
+    "name": "Hello Neighbor\nAlpha Version",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/helloneighbor.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/helloneighbor.jpg", 
+    "description":
+    " ",
+    "price": "??.??",
+    "date": "2020",
+    "url": "https://bit.ly/3lypfYh"
+ }
+,
+ {    
+    "nada": 0,
+    "store": "GoG",
+     "coming": 0,
+    "name": "GWENT: The Witcher\nCard Game",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/gwent.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/gwent.jpg", 
+    "description":
+    " ",
+    "price": "$0.00",
+    "date": "2020",
+    "url": "https://bit.ly/3jQW9D1"
+ }
+ ,
+
 { 
     "nada": 0,
     "store": "Steam",

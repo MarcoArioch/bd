@@ -10,38 +10,9 @@
     " ",
     "price": "$0.49",
     "date": "Oct 19 2020",
-    "url": "https://store.steampowered.com/app/71163/Sonic_The_Hedgehog_2/"
+    "url": "https://bit.ly/36SW3XT"
  }
  ,
- {    
-    "nada": 0,
-    "store": "GoG",
-    "name": "GWENT: The Witcher\nCard Game",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/gwent.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/gwent.jpg", 
-    "description":
-    " ",
-    "price": "??.??",
-    "date": "2020",
-    "url": "https://www.gog.com/game/gwent_the_witcher_card_game"
- }
- ,
-
- {    
-    "nada": 0,
-    "store": "GoG",
-    "name": "Hello Neighbor",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/helloneighbor.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/helloneighbor.jpg", 
-    "description":
-    " ",
-    "price": "??.??",
-    "date": "2020",
-    "url": "https://www.gog.com/game/hello_neighbor_demo"
- }
-,
 
  { 
     "nada": 0,
@@ -54,7 +25,7 @@
     " ",
     "price": "$??",
     "date": "?? 2020",
-    "url": "https://www.overkillsoftware.com/payday2-social-safe/"
+    "url": "https://bit.ly/3jTTfO0"
       },  
  
  {    
