@@ -13,11 +13,11 @@
   }, 
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Kingdom New Lands",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.png",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.jng", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.PNG",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.jpg", 
     "description": "",
     "price": "$4.99",
     "date": "Oct 22, 2020",
