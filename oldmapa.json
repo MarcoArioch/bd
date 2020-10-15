@@ -1,7 +1,7 @@
 [
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Costume Quest 2",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/costumequest2.webp",
@@ -14,7 +14,7 @@
   },
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Layers of Fear 2",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/LayersofFear2.webp",
