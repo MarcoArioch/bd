@@ -2,30 +2,27 @@
 {
     "store": "equis",
     "coming": 0,
-    "name": "ABZU",
+    "name": "Amnesia:\nA Machine for Pigs",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/Abzu.jpg", 
-    "description":
-    "",
-    "price": "$7.50",
-    "date": "Oct 15, 2020",
-    "url": "https://bit.ly/33OkWCo"
-  },
-
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/amnesia.jpg", 
+    "description": "",
+    "price": "$4.99",
+    "date": "Oct 22, 2020",
+    "url": "https://bit.ly/EPICAMNESIA"
+  }, 
 {
     "store": "equis",
     "coming": 0,
-    "name": "Rising Storm 2:\nVietnam",
+    "name": "Kingdom New Lands",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/RisingStorm2Vietnam.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/RisingStorm2Vietnam.jpg", 
-    "description":
-    "",
-    "price": "$10.50",
-    "date": "Oct 15, 2020",
-    "url": "https://bit.ly/33PxfOw"
-  },
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.PNG",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.jpg", 
+    "description": "",
+    "price": "$4.99",
+    "date": "Oct 22, 2020",
+    "url": "https://bit.ly/EPICKingdomNewLands"
+  },   
 
     {
     "store": "equis",
