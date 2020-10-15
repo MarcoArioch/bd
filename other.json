@@ -2,6 +2,20 @@
  {    
     "nada": 0,
     "store": "Steam",
+    "name": "Armor of Heroes",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/aoh.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/aoh.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Oct ?? 2020",
+    "url": "https://bit.ly/3k48eoK"
+ }
+ ,
+ {    
+    "nada": 0,
+    "store": "Steam",
     "name": "DLC Company of Heroes 2\nSouthern Fronts",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/company2dlc.PNG",
