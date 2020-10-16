@@ -1,5 +1,18 @@
 [
 
+ {    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Warhammer 40,000:\nMechanicus",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/WARHAMMER40000.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/WARHAMMER40000.jpg", 
+    "description":
+    " ",
+    "price": "$ 5.00",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/31bXbCh"
+ }
  
  {    
     "nada": 1,
