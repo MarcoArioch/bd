@@ -2,6 +2,20 @@
  {    
     "nada": 0,
     "store": "Steam",
+    "name": "Endless Zone",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/endlesszone.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/endlesszone.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Nov 19 2020",
+    "url": "http://bit.ly/355fgDt"
+ }
+ ,
+ {    
+    "nada": 0,
+    "store": "Steam",
     "name": "Vecter",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/vecter.jpg",
