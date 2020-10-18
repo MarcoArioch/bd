@@ -56,7 +56,8 @@
     "store": "equis",
     "coming": 0,
     "name": "Pikuniku",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Pikuniku.jpg",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/pikuniku.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/pikuniku.jpg", 
     "description": "",
     "price": "$0.00",
     "date": "Oct 11, 2020",
@@ -93,7 +94,7 @@
     "coming": 0,
     "name": "Watch Dogs 2",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/WatchDogs2.jpg",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/WatchDogs2.jpeg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/WatchDogs2.jpg", 
     "description":
     "",
