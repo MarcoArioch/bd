@@ -1,5 +1,5 @@
 [
-  {    
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Golden Axed",
@@ -11,9 +11,8 @@
     "price": "$2.49",
     "date": "Oct 19 2020",
     "url": "https://bit.ly/358c8Xr"
- }
-,
-  {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Streets Of\nKamurocho",
@@ -25,9 +24,8 @@
     "price": "$2.49",
     "date": "Oct 19 2020",
     "url": "https://bit.ly/347HPAY"
- }
- ,
- {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Endless Zone",
@@ -39,9 +37,8 @@
     "price": "$2.49",
     "date": "Oct 19 2020",
     "url": "https://bit.ly/355fgDt"
- }
- ,
- {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Vecter",
@@ -53,9 +50,8 @@
     "price": "$2.49",
     "date": "Oct ?? 2020",
     "url": "https://bit.ly/3793DxU"
- }
- ,
- {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Armor of Heroes",
@@ -67,9 +63,8 @@
     "price": "$2.49",
     "date": "Oct ?? 2020",
     "url": "https://bit.ly/3k48eoK"
- }
- ,
- {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "DLC Company of Heroes 2\nSouthern Fronts",
@@ -81,9 +76,8 @@
     "price": "$2.49",
     "date": "Oct ?? 2020",
     "url": "https://bit.ly/33VEIvJ"
- }
- ,
- {    
+ },
+   {    
     "nada": 0,
     "store": "Steam",
     "name": "Sonic\nThe Hedgehog 2",
@@ -95,10 +89,8 @@
     "price": "$0.49",
     "date": "Oct 19 2020",
     "url": "https://bit.ly/36SW3XT"
- }
- ,
-
- { 
+ },
+   { 
     "nada": 0,
     "store": "Steam",
     "name": "PAYDAY 2 DLCS",
@@ -110,9 +102,8 @@
     "price": "$??",
     "date": "?? 2020",
     "url": "https://bit.ly/3jTTfO0"
-      },  
- 
- {    
+ },   
+{    
     "nada": 1,
     "store": "Steam",
     "name": "No Games Found",
@@ -124,5 +115,5 @@
     "price": " ",
     "date": " ",
     "url": "https://www.google.com"
-  }
+ }
 ]
