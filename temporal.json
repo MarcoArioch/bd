@@ -1,20 +1,46 @@
 [
-
  {    
     "coming":0,
     "nada": 0,
     "store": "Steam",
-    "name": "Warhammer 40,000:\nMechanicus",
+    "name": "Fallout 76",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/WARHAMMER40000.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/WARHAMMER40000.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/fallout76.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/fallout76.jpg", 
+    "description":
+    " ",
+    "price": "$ 15.00",
+    "date": "Oct 26 2020",
+    "url": "https://bit.ly/3kc22Ln"
+ },
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
+    "name": "Europa\nUniversalis IV",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/europa4.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/europa4.jpg", 
     "description":
     " ",
     "price": "$ 5.00",
-    "date": "Oct 19 2020",
-    "url": "https://bit.ly/31bXbCh"
- }
- ,
+    "date": "Oct 26 2020",
+    "url": "https://bit.ly/34fYP8b"
+ }, 
+{    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
+    "name": "Space Engineers",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/spacee.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/spacee.jpg", 
+    "description":
+    " ",
+    "price": "$ .00",
+    "date": "Oct 22 2020",
+    "url": "https://bit.ly/2Td0Ag4"
+ },
  {    
     "nada": 1,
     "store": "Steam",
