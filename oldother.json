@@ -1,5 +1,70 @@
 [
-  { 
+{    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Golden Axed",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/goldenaxed.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/goldenaxed.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/358c8Xr"
+ },
+   {    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Streets Of\nKamurocho",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/streetsof.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/streetsof.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/347HPAY"
+ },
+   {    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Endless Zone",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/endlesszone.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/endlesszone.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/355fgDt"
+ },
+{    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Armor of Heroes",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/aoh.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/aoh.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/3k48eoK"
+ },
+{    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Sonic\nThe Hedgehog 2",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/sonic2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/sonic2.jpg", 
+    "description":
+    " ",
+    "price": "$0.49",
+    "date": "Oct 19 2020",
+    "url": "https://bit.ly/36SW3XT"
+ },  
+{ 
     "coming":0,
     "nada": 0,
     "store": "Steam",
