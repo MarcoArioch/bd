@@ -1,5 +1,18 @@
 [
 {    
+    "nada": 1,
+    "store": "Steam",
+    "name": "No Games Found",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/white.jpg", 
+    "description":
+    " ",
+    "price": " ",
+    "date": " ",
+    "url": "https://www.google.com"
+ }
+{    
     "coming":0,
     "nada": 0,
     "store": "Steam",

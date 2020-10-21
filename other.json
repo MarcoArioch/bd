@@ -51,18 +51,5 @@
     "price": "$??",
     "date": "?? 2020",
     "url": "https://bit.ly/3jTTfO0"
- },   
-{    
-    "nada": 1,
-    "store": "Steam",
-    "name": "No Games Found",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/white.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/white.jpg", 
-    "description":
-    " ",
-    "price": " ",
-    "date": " ",
-    "url": "https://www.google.com"
  }
 ]
