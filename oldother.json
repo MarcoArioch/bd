@@ -1,5 +1,6 @@
 [
 {    
+    "coming":0,
     "nada": 0,
     "store": "Steam",
     "name": "Golden Axed",
@@ -13,6 +14,7 @@
     "url": "https://bit.ly/358c8Xr"
  },
    {    
+    "coming":0,
     "nada": 0,
     "store": "Steam",
     "name": "Streets Of\nKamurocho",
@@ -25,7 +27,8 @@
     "date": "Oct 19 2020",
     "url": "https://bit.ly/347HPAY"
  },
-   {    
+   {  
+    "coming":0,  
     "nada": 0,
     "store": "Steam",
     "name": "Endless Zone",
@@ -39,6 +42,7 @@
     "url": "https://bit.ly/355fgDt"
  },
 {    
+    "coming":0,
     "nada": 0,
     "store": "Steam",
     "name": "Armor of Heroes",
@@ -51,7 +55,8 @@
     "date": "Oct 19 2020",
     "url": "https://bit.ly/3k48eoK"
  },
-{    
+{   
+    "coming":0, 
     "nada": 0,
     "store": "Steam",
     "name": "Sonic\nThe Hedgehog 2",
@@ -90,7 +95,7 @@
     " ",
     "price": "$14.99",
     "date": "Sep 07, 2020",
-    "url": "https://bit.ly/3kiKTzz"
+    "url": "https://bit.ly/3dNPZ4z"
       },  
  
   { 
