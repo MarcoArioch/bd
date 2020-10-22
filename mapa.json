@@ -10,7 +10,7 @@
     "description":
     "",
     "price": "$7.50",
-    "date": "Oct 22, 2020",
+    "date": "Oct 29, 2020",
     "url": "https://bit.ly/37ntbrl"
   },
 {
@@ -23,7 +23,7 @@
     "description":
     "",
     "price": "$7.50",
-    "date": "Oct 22, 2020",
+    "date": "Oct 29, 2020",
     "url": "https://bit.ly/37b2ohy"
   },   
     {
@@ -38,5 +38,31 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
+  },
+    {
+    "store": "equis",
+    "coming": 1,
+    "name": "Blair Witch",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/blairwitch.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/blairwitch.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Oct 29 2020",
+    "url": "https://bit.ly/3jhlk0t"
+  },
+    {
+    "store": "equis",
+    "coming": 1,
+    "name": "Ghostbusters:\nThe Video Game\nRemastered",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/ghostb.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/ghostb.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Oct 29 2020",
+    "url": ""
   }
 ]
