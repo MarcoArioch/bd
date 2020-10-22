@@ -1,27 +1,30 @@
 [
+
 {
     "store": "equis",
     "coming": 0,
-    "name": "Amnesia:\nA Machine for Pigs",
+    "name": "Costume Quest 2",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/amnesia.jpg", 
-    "description": "",
-    "price": "$4.99",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/costumequest2.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/costumequest2.jpg", 
+    "description":
+    "",
+    "price": "$7.50",
     "date": "Oct 22, 2020",
-    "url": "https://bit.ly/EPICAMNESIA"
-  }, 
+    "url": "https://bit.ly/37ntbrl"
+  },
 {
     "store": "equis",
     "coming": 0,
-    "name": "Kingdom New Lands",
+    "name": "Layers of Fear 2",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.PNG",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.jpg", 
-    "description": "",
-    "price": "$4.99",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/LayersofFear2.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/LayersofFear2.jpg", 
+    "description":
+    "",
+    "price": "$7.50",
     "date": "Oct 22, 2020",
-    "url": "https://bit.ly/EPICKingdomNewLands"
+    "url": "https://bit.ly/37b2ohy"
   },   
     {
     "store": "equis",
@@ -35,31 +38,5 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
-  },
-{
-    "store": "equis",
-    "coming": 1,
-    "name": "Costume Quest 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/costumequest2.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/costumequest2.jpg", 
-    "description":
-    "",
-    "price": "$7.50",
-    "date": "Oct 22, 2020",
-    "url": "https://bit.ly/37ntbrl"
-  },
-{
-    "store": "equis",
-    "coming": 1,
-    "name": "Layers of Fear 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/LayersofFear2.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/LayersofFear2.jpg", 
-    "description":
-    "",
-    "price": "$7.50",
-    "date": "Oct 22, 2020",
-    "url": "https://bit.ly/37b2ohy"
   }
 ]

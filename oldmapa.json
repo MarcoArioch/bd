@@ -2,6 +2,30 @@
 {
     "store": "equis",
     "coming": 0,
+    "name": "Amnesia:\nA Machine for Pigs",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/amnesia.jpg", 
+    "description": "",
+    "price": "$4.99",
+    "date": "Oct 22, 2020",
+    "url": "https://bit.ly/EPICAMNESIA"
+  }, 
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "Kingdom New Lands",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/kingdomnewlands.PNG",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/kingdomnewlands.jpg", 
+    "description": "",
+    "price": "$4.99",
+    "date": "Oct 22, 2020",
+    "url": "https://bit.ly/EPICKingdomNewLands"
+  },
+{
+    "store": "equis",
+    "coming": 0,
     "name": "ABZU",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/Abzu.jpg",
