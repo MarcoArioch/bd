@@ -1,18 +1,4 @@
 [
-  {    
-    "nada": 0,
-    "store": "GoG",
-    "name": "Europa\nUniversalis II",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/europa2.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/europa2.jpg", 
-    "description":
-    " ",
-    "price": "$2.49",
-    "date": "Oct 24 2020",
-    "url": "https://bit.ly/3m6jCkm"
- },
-   
    {    
     "nada": 0,
     "store": "Steam",
