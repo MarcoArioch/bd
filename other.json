@@ -1,6 +1,19 @@
 [
    {    
     "nada": 0,
+    "store": "felipegodoy",
+    "name": "Ryza Roads",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/ryzaroads.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/ryzaroads.jpg", 
+    "description":
+    " ",
+    "price": "$3.99",
+    "date": "Oct ?? 2020",
+    "url": "https://bit.ly/2HC1G2K"
+ },
+   {    
+    "nada": 0,
     "store": "Steam",
     "name": "Vecter",
     "image":
