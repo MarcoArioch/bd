@@ -2,6 +2,32 @@
 {
     "store": "equis",
     "coming": 0,
+    "name": "Costume Quest 2",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/costumequest2.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/costumequest2.jpg", 
+    "description":
+    "",
+    "price": "$6.00",
+    "date": "Oct 29, 2020",
+    "url": "https://bit.ly/37ntbrl"
+  },
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "Layers of Fear 2",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/LayersofFear2.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/LayersofFear2.jpg", 
+    "description":
+    "",
+    "price": "$12.50",
+    "date": "Oct 29, 2020",
+    "url": "https://bit.ly/37b2ohy"
+  },   
+{
+    "store": "equis",
+    "coming": 0,
     "name": "Amnesia:\nA Machine for Pigs",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/amnesia.webp",

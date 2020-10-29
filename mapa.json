@@ -1,47 +1,8 @@
 [
 
-{
-    "store": "equis",
-    "coming": 0,
-    "name": "Costume Quest 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/costumequest2.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/costumequest2.jpg", 
-    "description":
-    "",
-    "price": "$6.00",
-    "date": "Oct 29, 2020",
-    "url": "https://bit.ly/37ntbrl"
-  },
-{
-    "store": "equis",
-    "coming": 0,
-    "name": "Layers of Fear 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/LayersofFear2.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/LayersofFear2.jpg", 
-    "description":
-    "",
-    "price": "$12.50",
-    "date": "Oct 29, 2020",
-    "url": "https://bit.ly/37b2ohy"
-  },   
     {
     "store": "equis",
     "coming": 0,
-    "name": "Rocket League",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rocketLeague.jpg", 
-    "description":
-    "",
-    "price": "$0.00",
-    "date": "2020",
-    "url": "https://bit.ly/EpicRocketleague"
-  },
-    {
-    "store": "equis",
-    "coming": 1,
     "name": "Blair Witch",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/blairwitch.jpg",
@@ -54,7 +15,7 @@
   },
     {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Ghostbusters:\nThe Video Game\nRemastered",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/ghostb.webp",
@@ -64,5 +25,18 @@
     "price": "$5.00",
     "date": "Oct 29 2020",
     "url": ""
+  },
+    {
+    "store": "equis",
+    "coming": 0,
+    "name": "Rocket League",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/rocketLeague.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/rocketLeague.jpg", 
+    "description":
+    "",
+    "price": "$0.00",
+    "date": "2020",
+    "url": "https://bit.ly/EpicRocketleague"
   }
 ]
