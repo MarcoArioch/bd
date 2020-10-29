@@ -10,7 +10,7 @@
     "description":
     "",
     "price": "$5.00",
-    "date": "Oct 29 2020",
+    "date": "Nov 5 2020",
     "url": "https://bit.ly/3jhlk0t"
   },
     {
@@ -23,7 +23,7 @@
     "description":
     "",
     "price": "$5.00",
-    "date": "Oct 29 2020",
+    "date": "Nov 5 2020",
     "url": ""
   },
     {
@@ -38,5 +38,18 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
-  }
+  },
+    {
+    "store": "equis",
+    "coming": 1,
+    "name": "Wargame: Red Dragon",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/WargameRedDragon.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/WargameRedDragon.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Nov 5 2020",
+    "url": ""
+  },
 ]
