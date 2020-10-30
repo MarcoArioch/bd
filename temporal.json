@@ -3,6 +3,20 @@
     "coming":0,
     "nada": 0,
     "store": "Steam",
+    "name": "Dead by Daylight",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/dbd.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/dbd.jpg", 
+    "description":
+    " ",
+    "price": "$ 3.50",
+    "date": "Nov 2 2020",
+    "url": "https://bit.ly/2HENRk7"
+ },
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
     "name": "The Sims™ 4",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/sims4.jpg",
