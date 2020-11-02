@@ -15,6 +15,18 @@
     "nada": 0,
     "store": "Steam",
     "coming": 0,
+    "name": "Blood of Steel",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/bloodofsteel.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/bloodofsteel.jpg", 
+    "description": "",
+    "price": "$0.00",
+    "date": "OCT 23 2020",
+    "url": "https://bit.ly/3ehWGw3"
+  },
+    {
+    "nada": 0,
+    "store": "Steam",
+    "coming": 0,
     "name": "Occupy Mars:\nPrologue",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/occupymars.jpg", 
