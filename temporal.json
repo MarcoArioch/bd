@@ -1,5 +1,18 @@
 [
-
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
+    "name": "ARK:\nSurvival Evolved",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/ark.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/ark.jpg", 
+    "description":
+    " ",
+    "price": "$ 4.50",
+    "date": "Nov 9 2020",
+    "url": "https://bit.ly/34Yjn5k"
+ },
  {    
     "nada": 1,
     "store": "Steam",
