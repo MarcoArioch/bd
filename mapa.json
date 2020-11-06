@@ -8,8 +8,8 @@
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/dungeons3.jpg", 
     "description":
     "",
-    "price": "$0.00",
-    "date": "Nov  2020",
+    "price": "$5.00",
+    "date": "Nov 12 2020",
     "url": "https://bit.ly/34XNYjw"
  },
     {
@@ -28,14 +28,14 @@
     {
     "store": "equis",
     "coming": 1,
-    "name": "Wargame: Red Dragon",
+    "name": "The Textorcist",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/WargameRedDragon.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/WargameRedDragon.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/thetextorcist.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/thetextorcist.jpg", 
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 5 2020",
-    "url": "https://bit.ly/37RsZRa"
+    "date": "Nov 12 2020",
+    "url": "https://bit.ly/2U3Pnyx"
   }
 ]
