@@ -12,6 +12,34 @@
     "date": " ",
     "url": "https://www.google.com"
  },
+   {    
+    "coming":0, 
+    "nada": 0,
+    "store": "Steam",
+    "name": "Kingdom: Classic",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/kingdomclassic.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/kingdomclassic.jpg", 
+    "description":
+    " ",
+    "price": "$2.49",
+    "date": "Nov 6 2020",
+    "url": "https://bit.ly/3elTBet"
+ },
+   {   
+    "coming":0,  
+    "nada": 0,
+    "store": "HumbleBundle/Steam Key",
+    "name": "Kingdom: Classic",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/kingdomclassic.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/kingdomclassic.jpg", 
+    "description":
+    " ",
+    "price": "$4.99",
+    "date": "Nov 7 2020",
+    "url": "https://bit.ly/2TOkz4I"
+ },
    {
     "coming":0,    
     "nada": 0,
