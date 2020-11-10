@@ -3,6 +3,34 @@
     "coming":0,
     "nada": 0,
     "store": "Steam",
+    "name": "Blazing Sails:\nPirate Battle Royale",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/blazingsails.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/blazingsails.jpg", 
+    "description":
+    " ",
+    "price": "$ 5.50",
+    "date": "Nov 9 2020",
+    "url": "https://bit.ly/3eA59uL"
+ },
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
+    "name": "ARK:\nSurvival Evolved",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/ark.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/ark.jpg", 
+    "description":
+    " ",
+    "price": "$ 4.50",
+    "date": "Nov 10 2020",
+    "url": "https://bit.ly/34Yjn5k"
+ }, 
+{    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
     "name": "Tip of the Spear:\nTask Force Elite",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/tipofthespear.jpg",
