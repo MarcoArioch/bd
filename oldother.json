@@ -12,7 +12,8 @@
     "date": " ",
     "url": "https://www.google.com"
  },
-   {    
+   {
+    "coming":0,    
     "nada": 0,
     "store": "IndieGala",
     "name": "Whispering Willows",
@@ -26,7 +27,8 @@
     "url": "https://bit.ly/2HWfJ3d"
  },
 
-  {    
+  {
+    "coming":0,    
     "nada": 0,
     "store": "GoG",
     "name": "Europa\nUniversalis II",
