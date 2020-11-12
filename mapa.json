@@ -2,16 +2,16 @@
     {
     "store": "equis",
     "coming": 0,
-    "name": "Dungeons3",
+    "name": "The Textorcist",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/dungeons3.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/dungeons3.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/thetextorcist.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/thetextorcist.jpg", 
     "description":
     "",
     "price": "$5.00",
     "date": "Nov 12 2020",
-    "url": "https://bit.ly/34XNYjw"
- },
+    "url": "https://bit.ly/2U3Pnyx"
+  },
     {
     "store": "equis",
     "coming": 0,
@@ -24,18 +24,5 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
-  },
-    {
-    "store": "equis",
-    "coming": 1,
-    "name": "The Textorcist",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/thetextorcist.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/thetextorcist.jpg", 
-    "description":
-    "",
-    "price": "$5.00",
-    "date": "Nov 12 2020",
-    "url": "https://bit.ly/2U3Pnyx"
   }
 ]
