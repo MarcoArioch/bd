@@ -9,7 +9,7 @@
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 12 2020",
+    "date": "Nov 19 2020",
     "url": "https://bit.ly/2U3Pnyx"
   },
     {
@@ -24,5 +24,32 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
+  },
+    {
+    "store": "equis",
+    "coming": 1,
+    "name": "Elite Dangerous",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/elitedangerous.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/elitedangerous.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Nov 19 2020",
+    "url": "https://bit.ly/38D8R5x"
+  },    
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "The World Next Door",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/TheWorldNextDoor.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/TheWorldNextDoor.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Nov 19 2020",
+    "url": "https://bit.ly/3lsl5lb"
   }
+
 ]
