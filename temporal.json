@@ -3,6 +3,34 @@
     "coming":0,
     "nada": 0,
     "store": "Steam",
+    "name": "Grounded",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/grounded.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/grounded.jpg", 
+    "description":
+    " ",
+    "price": "$ 40.00",
+    "date": "Nov 15 2020",
+    "url": "https://bit.ly/38IcXtk"
+ },
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
+    "name": "The Legend of Heroes:\nTrails of Cold Steel III",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/trailsofcoldsteel3.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/trailsofcoldsteel3.jpg", 
+    "description":
+    " ",
+    "price": "$ 15.00",
+    "date": "Nov 15 2020",
+    "url": "https://bit.ly/3eW90lX"
+ },
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
     "name": "This War of Mine",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/thiswarofmine.jpg",
