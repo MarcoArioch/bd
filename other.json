@@ -15,6 +15,19 @@
  },
    {    
     "nada": 0,
+    "store": "Indiegala",
+    "name": "12 Games",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/12games.PNG",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/12games.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov ?? 2020",
+    "url": "https://bit.ly/36wHQ16"
+ },
+   {    
+    "nada": 0,
     "store": "felipegodoy",
     "name": "Ryza Roads",
     "image":
