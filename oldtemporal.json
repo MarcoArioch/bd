@@ -1,17 +1,5 @@
 [
-   {    
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "11 Games",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/11games.PNG",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/11games.jpg", 
-    "description":
-    " ",
-    "price": "$?.??",
-    "date": "Nov ?? 2020",
-    "url": "https://bit.ly/3kSeost"
- },
+
  {    
     "coming":0,
     "nada": 0,
