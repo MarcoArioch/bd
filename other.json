@@ -1,6 +1,19 @@
 [
    {    
     "nada": 0,
+    "store": "Humble Bundle",
+    "name": "INFLUENT",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/INFLUENT.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/INFLUENT.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 30 2020",
+    "url": "https://bit.ly/38St7jR"
+ },
+   {    
+    "nada": 0,
     "store": "GoG",
     "name": "Butcher",
     "image":
