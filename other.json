@@ -1,6 +1,19 @@
 [
    {    
     "nada": 0,
+    "store": "GoG",
+    "name": "Butcher",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/butcher.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/butcher.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 18 2020",
+    "url": "http://bit.ly/38O8wgw"
+ },
+   {    
+    "nada": 0,
     "store": "Steam",
     "name": "Streets Of\nKamurocho",
     "image":
