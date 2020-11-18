@@ -14,6 +14,19 @@
  },
    {    
     "nada": 0,
+    "store": "Steam",
+    "name": "Streets Of\nKamurocho",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/streetsof.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/streetsof.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 16 2020",
+    "url": "https://bit.ly/3eZXvdh"
+ },
+   {    
+    "nada": 0,
     "store": "GoG",
     "name": "Teleglitch\nDie More\nEdition",
     "image":
