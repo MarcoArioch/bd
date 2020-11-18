@@ -12,19 +12,7 @@
     "date": "Nov 30 2020",
     "url": "https://bit.ly/38St7jR"
  },
-   {    
-    "nada": 0,
-    "store": "GoG",
-    "name": "Butcher",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/butcher.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/butcher.jpg", 
-    "description":
-    " ",
-    "price": "$?.??",
-    "date": "Nov 18 2020",
-    "url": "https://bit.ly/38O8wgw"
- },
+
    {    
     "nada": 0,
     "store": "Steam",
