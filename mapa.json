@@ -9,7 +9,7 @@
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 19 2020",
+    "date": "Nov 26 2020",
     "url": "https://bit.ly/38D8R5x"
   },    
 {
@@ -22,7 +22,7 @@
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 19 2020",
+    "date": "Nov 26 2020",
     "url": "https://bit.ly/3lsl5lb"
   },
     {
@@ -37,6 +37,19 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/EpicRocketleague"
+  },
+{
+    "store": "equis",
+    "coming": 0,
+    "name": "Mud Runner",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/mudrunner.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/mudrunner.jpg", 
+    "description":
+    "",
+    "price": "$5.00",
+    "date": "Nov 26 2020",
+    "url": "http://bit.ly/3pIACjf"
   }
 
 ]
