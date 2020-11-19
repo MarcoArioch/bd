@@ -40,7 +40,7 @@
   },
 {
     "store": "equis",
-    "coming": 0,
+    "coming": 1,
     "name": "Mud Runner",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/mudrunner.webp",
