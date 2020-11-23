@@ -1,24 +1,23 @@
 [
-
    {    
     "nada": 0,
-    "store": "GoG",
-    "name": "Teleglitch\nDie More\nEdition",
+    "store": "Humble Bundle",
+    "name": "INFLUENT",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/teleglitch.png",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/teleglitch.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/INFLUENT.jepg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/INFLUENT.jpg", 
     "description":
     " ",
     "price": "$?.??",
-    "date": "Nov 15 2020",
-    "url": "https://bit.ly/2IyweCs"
+    "date": "Nov 30 2020",
+    "url": "https://bit.ly/38St7jR"
  },
    {    
     "nada": 0,
     "store": "Indiegala",
     "name": "12 Games",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/12games.PNG",
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/12games.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/12games.jpg", 
     "description":
     " ",

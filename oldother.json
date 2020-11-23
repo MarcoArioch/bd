@@ -1,6 +1,45 @@
 [
    {    
     "nada": 0,
+    "store": "GoG",
+    "name": "Butcher",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/butcher.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/butcher.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 18 2020",
+    "url": "https://bit.ly/38O8wgw"
+ },
+   {    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Streets Of\nKamurocho",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/streetsof.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/streetsof.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 16 2020",
+    "url": "https://bit.ly/3eZXvdh"
+ },
+   {    
+    "nada": 0,
+    "store": "GoG",
+    "name": "Teleglitch\nDie More\nEdition",
+    "image":
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/teleglitch.png",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/teleglitch.jpg", 
+    "description":
+    " ",
+    "price": "$?.??",
+    "date": "Nov 15 2020",
+    "url": "https://bit.ly/2IyweCs"
+ },
+   {    
+    "nada": 0,
     "store": "Indiegala",
     "name": "11 Games",
     "image":
