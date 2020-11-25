@@ -1,5 +1,17 @@
 [
-
+ {    
+    "nada": 0,
+    "store": "robertsspaceindustries",
+    "name": "Star Citizen",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/sc.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/sc.jpg", 
+    "description":
+    " ",
+    "price": "$ ?.??",
+    "date": "Dic 02 2020",
+    "url": "https://bit.ly/2UWmSTR"
+ },
  {    
     "nada": 0,
     "store": "Steam",
