@@ -3,6 +3,21 @@
     "coming":0,
     "nada": 0,
     "store": "Steam",
+    "name": "Primal Carnage:\nExtinction",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/primalcarnage.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/primalcarnage.jpg", 
+    "description":
+    " ",
+    "price": "$ 4.00",
+    "date": "Nov 23 2020",
+    "url": "https://bit.ly/35Q9arT"
+ },
+
+ {    
+    "coming":0,
+    "nada": 0,
+    "store": "Steam",
     "name": "The Legend of Heroes:\nTrails of Cold Steel III",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/trailsofcoldsteel3.jpg",
