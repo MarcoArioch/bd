@@ -1,4 +1,18 @@
 [
+{ 
+    "coming":0,    
+    "nada": 0,
+    "store": "Steam",
+    "name": "Blackout Z:\nSlaughterhouse Edition",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/blackoutz.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/blackoutz.jpg", 
+    "description":
+    "",
+    "price": "$1.00",
+    "date": "Jan 04 2021",
+    "url": "https://bit.ly/2J12DSZ"
+ },
    {    
     "nada": 0,
     "store": "Humble Bundle",
