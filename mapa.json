@@ -29,15 +29,15 @@
 {
     "store": "equis",
     "coming": 1,
-    "name": "Mud Runner",
+    "name": "Cave Story",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/mudrunner.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/mudrunner.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/CaveStory.webp",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/CaveStory.jpg", 
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 26 2020",
-    "url": "https://bit.ly/3pIACjf"
+    "date": "Dec 03 2020",
+    "url": "https://bit.ly/2JiElmR"
   }
 
 ]
