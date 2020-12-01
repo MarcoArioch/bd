@@ -1,43 +1,18 @@
 [
-    {
+   {
     "store": "equis",
     "coming": 0,
-    "name": "UPDATE APP",
+    "name": "Mud Runner",
     "image":
-    "https://img.utdstc.com/icons/google-play-android.png",
-    "background": "https://as.com/meristation/imagenes/2020/03/11/betech/1583965242_490671_1583965322_noticia_normal.jpg", 
-    "description":
-    "",
-    "price": "$0.00",
-    "date": "Dec 01 2020",
-    "url": "https://play.google.com/store/apps/details?id=com.apds.freegames"
-  },    
-    {
-    "store": "equis",
-    "coming": 0,
-    "name": "Elite Dangerous",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/elitedangerous.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/elitedangerous.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/mudrunner.webp",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/mudrunner.jpg", 
     "description":
     "",
     "price": "$5.00",
     "date": "Nov 26 2020",
-    "url": "https://bit.ly/38D8R5x"
-  },    
-{
-    "store": "equis",
-    "coming": 0,
-    "name": "The World Next Door",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/TheWorldNextDoor.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/TheWorldNextDoor.jpg", 
-    "description":
-    "",
-    "price": "$5.00",
-    "date": "Nov 26 2020",
-    "url": "https://bit.ly/3lsl5lb"
+    "url": "https://bit.ly/3pIACjf"
   },
+
     {
     "store": "equis",
     "coming": 0,
@@ -54,15 +29,15 @@
 {
     "store": "equis",
     "coming": 1,
-    "name": "Mud Runner",
+    "name": "Cave Story",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/mudrunner.webp",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/mudrunner.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/CaveStory.webp",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/CaveStory.jpg", 
     "description":
     "",
     "price": "$5.00",
-    "date": "Nov 26 2020",
-    "url": "https://bit.ly/3pIACjf"
+    "date": "Dec 03 2020",
+    "url": "https://bit.ly/2JiElmR"
   }
 
 ]
