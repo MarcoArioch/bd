@@ -2,6 +2,19 @@
     {
     "store": "equis",
     "coming": 0,
+    "name": "UPDATE APP",
+    "image":
+    "https://img.utdstc.com/icons/google-play-android.png",
+    "background": "https://as.com/meristation/imagenes/2020/03/11/betech/1583965242_490671_1583965322_noticia_normal.jpg", 
+    "description":
+    "",
+    "price": "$0.00",
+    "date": "Dec 01 2020",
+    "url": "https://play.google.com/store/apps/details?id=com.apds.freegames"
+  },    
+    {
+    "store": "equis",
+    "coming": 0,
     "name": "Elite Dangerous",
     "image":
     "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/elitedangerous.webp",
