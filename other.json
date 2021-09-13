@@ -5,8 +5,8 @@
     "store": "Indiegala",
     "name": "The Mims Beginning",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/TheMimsBeginning.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/TheMimsBeginning.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TheMimsBeginning.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TheMimsBeginning.jpg", 
     "description":
     " ",
     "price": "$5.00",
@@ -19,8 +19,8 @@
     "store": "Indiegala",
     "name": "web spice",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/webspice.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/webspice.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/webspice.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/webspice.jpg", 
     "description":
     " ",
     "price": "$5.00",
@@ -33,8 +33,8 @@
     "store": "Indiegala",
     "name": "Cat Defense",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/CatDefense.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/CatDefense.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/CatDefense.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/CatDefense.jpg", 
     "description":
     " ",
     "price": "$5.00",
@@ -47,8 +47,8 @@
     "store": "Indiegala",
     "name": "Still Life 2",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/StillLife2.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/StillLife2.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StillLife2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/StillLife2.jpg", 
     "description":
     " ",
     "price": "$5.00",
@@ -61,8 +61,8 @@
     "store": "Indiegala",
     "name": "Return to Mysterious Island 2",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/ReturntoMysteriousIsland2.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/ReturntoMysteriousIsland2.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ReturntoMysteriousIsland2.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ReturntoMysteriousIsland2.jpg", 
     "description":
     " ",
     "price": "$5.00",
@@ -74,8 +74,8 @@
     "store": "GoG",
     "coming": 0,
     "name": "Symphonia",
-    "image": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/Symphonia.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/Symphonia.jpg", 
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Symphonia.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Symphonia.jpg", 
     "description": "",
     "price": "$0.00",
     "date": "2021",
@@ -88,8 +88,8 @@
     "store": "Steam",
     "name": "Vecter",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/vecter.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/bg/vecter.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/vecter.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/vecter.jpg", 
     "description":
     " ",
     "price": "$2.49",
@@ -103,8 +103,8 @@
     "store": "Steam",
     "name": "PAYDAY 2 DLCS",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/pd2-socialmedia.png",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/pd2-socialmedia.png", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png", 
     "description":
     " ",
     "price": "$??",
