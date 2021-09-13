@@ -5,8 +5,8 @@
     "store": "Steam - VR",
     "name": "ShapeLab",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/ShapeLab.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/ShapeLab.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ShapeLab.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ShapeLab.jpg", 
     "description":
     " ",
     "price": "$12.50",
@@ -19,8 +19,8 @@
     "store": "Steam",
     "name": "The Elder Scrolls® Online",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/TESO.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/TESO.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TESO.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TESO.jpg", 
     "description":
     " ",
     "price": "$8.00",
@@ -33,8 +33,8 @@
     "store": "Steam",
     "name": "",
     "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/white.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/bg/white.jpg", 
+    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/white.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/white.jpg", 
     "description":
     " ",
     "price": " ",
