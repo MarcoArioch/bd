@@ -1,114 +1,38 @@
-[ 
+[
    {
-    "coming":0,
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "The Mims Beginning",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TheMimsBeginning.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TheMimsBeginning.jpg", 
-    "description":
-    " ",
-    "price": "$5.00",
-    "date": "Aug ?? 2021",
-    "url": "https://bit.ly/3yVLKxK"
- },
-    {
-    "coming":0,
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "web spice",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/webspice.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/webspice.jpg", 
-    "description":
-    " ",
-    "price": "$5.00",
-    "date": "Aug ?? 2021",
-    "url": "https://bit.ly/37KKoKg"
- },
+      "nada": 0,
+      "store": "GoG",
+      "coming": 0,
+      "name": "Symphonia",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Symphonia.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Symphonia.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "2021",
+      "url": "https://bit.ly/3i054CB"
+   },
    {
-    "coming":0,
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "Cat Defense",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/CatDefense.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/CatDefense.jpg", 
-    "description":
-    " ",
-    "price": "$5.00",
-    "date": "Aug ?? 2021",
-    "url": "https://bit.ly/2VwymSh"
- },
-    {
-    "coming":0,
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "Still Life 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StillLife2.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/StillLife2.jpg", 
-    "description":
-    " ",
-    "price": "$5.00",
-    "date": "Aug ?? 2021",
-    "url": "https://bit.ly/3CuawqK"
- },    
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam",
+      "name": "Vecter",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/vecter.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/vecter.jpg",
+      "description": " ",
+      "price": "$2.49",
+      "date": "2021",
+      "url": "https://bit.ly/3793DxU"
+   },
    {
-    "coming":0,
-    "nada": 0,
-    "store": "Indiegala",
-    "name": "Return to Mysterious Island 2",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ReturntoMysteriousIsland2.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ReturntoMysteriousIsland2.jpg", 
-    "description":
-    " ",
-    "price": "$5.00",
-    "date": "Aug ?? 2021",
-    "url": "https://bit.ly/3yw7srW"
- },   
-            {
-    "nada": 0,
-    "store": "GoG",
-    "coming": 0,
-    "name": "Symphonia",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Symphonia.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Symphonia.jpg", 
-    "description": "",
-    "price": "$0.00",
-    "date": "2021",
-    "url": "https://bit.ly/3i054CB"
-  },
-
-   {    
-    "coming":0,
-    "nada": 0,
-    "store": "Steam",
-    "name": "Vecter",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/vecter.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/vecter.jpg", 
-    "description":
-    " ",
-    "price": "$2.49",
-    "date": "2021",
-    "url": "https://bit.ly/3793DxU"
- },
-
-   { 
-    "coming":0,
-    "nada": 0,
-    "store": "Steam",
-    "name": "PAYDAY 2 DLCS",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png", 
-    "description":
-    " ",
-    "price": "$??",
-    "date": "2021",
-    "url": "https://bit.ly/3jTTfO0"
- }
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam",
+      "name": "PAYDAY 2 DLCS",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/pd2-socialmedia.png",
+      "description": " ",
+      "price": "$??",
+      "date": "2021",
+      "url": "https://bit.ly/3jTTfO0"
+   }
 ]

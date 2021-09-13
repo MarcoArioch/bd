@@ -1,44 +1,13 @@
 [
-               {
-    "coming":0,
-    "nada": 0,
-    "store": "Steam - VR",
-    "name": "ShapeLab",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ShapeLab.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ShapeLab.jpg", 
-    "description":
-    " ",
-    "price": "$12.50",
-    "date": "Aug 23 2021",
-    "url": "https://bit.ly/3j7RhMc"
- },
-           {
-    "coming":0,
-    "nada": 0,
-    "store": "Steam",
-    "name": "The Elder Scrolls® Online",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TESO.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TESO.jpg", 
-    "description":
-    " ",
-    "price": "$8.00",
-    "date": "Aug 30 2021",
-    "url": "https://bit.ly/3rG0PPj"
- },
-
- {    
-    "nada": 1,
-    "store": "Steam",
-    "name": "",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/white.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/white.jpg", 
-    "description":
-    " ",
-    "price": " ",
-    "date": " ",
-    "url": "https://www.google.com"
- }
+   {
+      "nada": 1,
+      "store": "Steam",
+      "name": "",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/white.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/white.jpg",
+      "description": " ",
+      "price": " ",
+      "date": " ",
+      "url": "https://www.google.com"
+   }
 ]
