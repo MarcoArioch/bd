@@ -30,8 +30,8 @@
     "coming": 1,
     "name": "Automachef",
     "image":
-    "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Automachef_HermesInteractive_S1_2560x1440-448983fc02b127093940156b7c1d489a?h=480&resize=1&w=854",
-    "background": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Automachef_HermesInteractive_S1_2560x1440-448983fc02b127093940156b7c1d489a?h=480&resize=1&w=854", 
+    "",
+    "background": "", 
     "description":
     "",
     "price": "$5.00",
