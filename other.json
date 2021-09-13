@@ -1,107 +1,114 @@
-[
-    {
-    "store": "equis",
-    "coming": 0,
-    "name": "UPDATE APP",
-    "image":
-    "https://cmsphoto.ww-cdn.com/superstatic/81328/art/grande/11218940-18650572.jpg",
-    "background": "https://as.com/meristation/imagenes/2020/03/11/betech/1583965242_490671_1583965322_noticia_normal.jpg", 
-    "description":
-    "",
-    "price": "$0.00",
-    "date": "Dec 01 2020",
-    "url": "https://play.google.com/store/apps/details?id=com.apds.freegames"
-  }, 
-{ 
-    "coming":0,    
-    "nada": 0,
-    "store": "Steam",
-    "name": "Blackout Z:\nSlaughterhouse Edition",
-    "image":
-    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/blackoutz.jpg",
-    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/11/bg/blackoutz.jpg", 
-    "description":
-    "",
-    "price": "$1.00",
-    "date": "Jan 04 2021",
-    "url": "https://bit.ly/2J12DSZ"
- },
-   {    
-    "nada": 0,
-    "store": "Humble Bundle",
-    "name": "INFLUENT",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/INFLUENT.jepg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/INFLUENT.jpg", 
-    "description":
-    " ",
-    "price": "$?.??",
-    "date": "Nov 30 2020",
-    "url": "https://bit.ly/38St7jR"
- },
-   {    
+[ 
+   {
+    "coming":0,
     "nada": 0,
     "store": "Indiegala",
-    "name": "12 Games",
+    "name": "The Mims Beginning",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/12games.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/11/bg/12games.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/TheMimsBeginning.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/TheMimsBeginning.jpg", 
     "description":
     " ",
-    "price": "$?.??",
-    "date": "Nov ?? 2020",
-    "url": "https://bit.ly/36wHQ16"
+    "price": "$5.00",
+    "date": "Aug ?? 2021",
+    "url": "https://bit.ly/3yVLKxK"
  },
-   {    
+    {
+    "coming":0,
     "nada": 0,
-    "store": "felipegodoy",
-    "name": "Ryza Roads",
+    "store": "Indiegala",
+    "name": "web spice",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/ryzaroads.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/ryzaroads.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/webspice.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/webspice.jpg", 
     "description":
     " ",
-    "price": "$3.99",
-    "date": "Nov ?? 2020",
-    "url": "https://bit.ly/2HC1G2K"
+    "price": "$5.00",
+    "date": "Aug ?? 2021",
+    "url": "https://bit.ly/37KKoKg"
  },
+   {
+    "coming":0,
+    "nada": 0,
+    "store": "Indiegala",
+    "name": "Cat Defense",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/CatDefense.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/CatDefense.jpg", 
+    "description":
+    " ",
+    "price": "$5.00",
+    "date": "Aug ?? 2021",
+    "url": "https://bit.ly/2VwymSh"
+ },
+    {
+    "coming":0,
+    "nada": 0,
+    "store": "Indiegala",
+    "name": "Still Life 2",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/StillLife2.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/StillLife2.jpg", 
+    "description":
+    " ",
+    "price": "$5.00",
+    "date": "Aug ?? 2021",
+    "url": "https://bit.ly/3CuawqK"
+ },    
+   {
+    "coming":0,
+    "nada": 0,
+    "store": "Indiegala",
+    "name": "Return to Mysterious Island 2",
+    "image":
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/ReturntoMysteriousIsland2.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/ReturntoMysteriousIsland2.jpg", 
+    "description":
+    " ",
+    "price": "$5.00",
+    "date": "Aug ?? 2021",
+    "url": "https://bit.ly/3yw7srW"
+ },   
+            {
+    "nada": 0,
+    "store": "GoG",
+    "coming": 0,
+    "name": "Symphonia",
+    "image": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/Symphonia.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/bg/Symphonia.jpg", 
+    "description": "",
+    "price": "$0.00",
+    "date": "2021",
+    "url": "https://bit.ly/3i054CB"
+  },
+
    {    
+    "coming":0,
     "nada": 0,
     "store": "Steam",
     "name": "Vecter",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/vecter.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/vecter.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/vecter.jpg",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2020/bg/vecter.jpg", 
     "description":
     " ",
     "price": "$2.49",
-    "date": "Nov ?? 2020",
+    "date": "2021",
     "url": "https://bit.ly/3793DxU"
  },
-   {    
-    "nada": 0,
-    "store": "Steam",
-    "name": "DLC Company of Heroes 2\nSouthern Fronts",
-    "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/company2dlc.PNG",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/10/bg/company2dlc.jpg", 
-    "description":
-    " ",
-    "price": "$2.49",
-    "date": "Nov ?? 2020",
-    "url": "https://bit.ly/33VEIvJ"
- },
+
    { 
+    "coming":0,
     "nada": 0,
     "store": "Steam",
     "name": "PAYDAY 2 DLCS",
     "image":
-    "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/pd2-socialmedia.png",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/fondos/pd2-socialmedia.jpg", 
+    "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/pd2-socialmedia.png",
+    "background": "https://gitlab.com/freeepicgamespc/freepicgames/-/raw/master/images/2021/pd2-socialmedia.png", 
     "description":
     " ",
     "price": "$??",
-    "date": "Nov ?? 2020",
+    "date": "2021",
     "url": "https://bit.ly/3jTTfO0"
  }
 ]
