@@ -1,6 +1,54 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Quake II RTX Steam",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/QuakeIIRTX.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/QuakeIIRTX.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "2021",
+      "url": "https://bit.ly/3yLsXnL"
+   },
+   {
+      "nada": 0,
+      "store": "GoG",
+      "coming": 0,
+      "name": "Quake II RTX GoG",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/QuakeIIRTXGoG.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/QuakeIIRTXGoG.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "2021",
+      "url": "https://bit.ly/3y9mD9d"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Crazy space pirate",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Crazyspacepirate.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Crazyspacepirate.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/3h6oBS8"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Hard Place",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/HardPlace.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/HardPlace.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Sep ?? 2021",
+      "url": ""
+   },
+   {
+      "nada": 0,
       "store": "GoG",
       "coming": 0,
       "name": "Symphonia",
