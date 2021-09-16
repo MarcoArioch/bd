@@ -1,4 +1,26 @@
 [
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Nioh: The Complete Edition",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/NiohTheCompleteEdition.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/NiohTheCompleteEdition.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 16 2021",
+    "url": "https://bit.ly/3jYBrUA"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Void Bastards",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Sheltered.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Sheltered.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 16 2021",
+    "url": "https://bit.ly/3zFALZz"
+  },
       {
     "store": "equis",
     "coming": 0,
