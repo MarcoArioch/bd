@@ -31,16 +31,5 @@
     "price": "$5.00",
     "date": "Sep 23 2021",
     "url": ""
-  },
-  {
-    "store": "equis",
-    "coming": 1,
-    "name": "",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 23 2021",
-    "url": ""
   }
 ]
