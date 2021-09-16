@@ -2,45 +2,45 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Nioh: The Complete Edition",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/NiohTheCompleteEdition.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/NiohTheCompleteEdition.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 16 2021",
-    "url": "https://bit.ly/3jYBrUA"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Void Bastards",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Sheltered.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Sheltered.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 16 2021",
-    "url": "https://bit.ly/3zFALZz"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
     "name": "Speed Brawl",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SpeedBrawl.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/SpeedBrawl.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Sep 16 2021",
+    "date": "Sep 23 2021",
     "url": "https://bit.ly/3ygDVSW"
   },
   {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Tharsis",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Tharsis",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Tharsis.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Sep 16 2021",
+    "date": "Sep 23 2021",
     "url": "https://bit.ly/3ygDVSW"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 23 2021",
+    "url": ""
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "Tharsis",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 23 2021",
+    "url": ""
   }
 ]
