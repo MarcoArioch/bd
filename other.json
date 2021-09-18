@@ -60,6 +60,18 @@
       "date": "Sep 23 2021",
       "url": "https://bit.ly/3zfg2L2"
    },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Marvin The Hatter",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/MarvinTheHatter.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/MarvinTheHatter.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/3kk7nCP"
+   },
       {
       "nada": 0,
       "store": "Steam",
