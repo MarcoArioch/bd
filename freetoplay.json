@@ -1,17 +1,4 @@
 [
-
-    {
-    "nada": 0,
-    "store": "Epic Games",
-    "coming": 0,
-    "name": "Rocket League",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/rocketLeague.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/rocketLeague.jpg", 
-    "description": "",
-    "price": "$0.00",
-    "date": "2020",
-    "url": "https://bit.ly/3iOFmiI"
-  },
           {
     "nada": 0,
     "store": "Steam",
