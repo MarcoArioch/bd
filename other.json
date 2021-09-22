@@ -14,18 +14,6 @@
    },
    {
       "nada": 0,
-      "store": "Origin",
-      "coming": 0,
-      "name": "Battlefield 4™ Naval Strike",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4NavalStrike.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Battlefield4NavalStrike.jpg",
-      "description": "",
-      "price": "$9.99",
-      "date": "Sep 21 2021",
-      "url": "https://bit.ly/39hlySM"
-   },
-   {
-      "nada": 0,
       "store": "Steam",
       "coming": 0,
       "name": "Titan Quest Anniversary Edition",
