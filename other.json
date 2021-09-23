@@ -1,5 +1,40 @@
 [
-
+   {
+      "nada": 0,
+      "store": "Steam - DLC",
+      "coming": 0,
+      "name": "Battlefield 4™ Soldier Shortcut Bundle",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4SoldierShortcutBundle.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4SoldierShortcutBundle.jpg",
+      "description": "",
+      "price": "$9.00",
+      "date": "Sep 30 2021",
+      "url": "https://bit.ly/2ZszQhV"
+   },
+   {
+      "nada": 0,
+      "store": "Steam - DLC",
+      "coming": 0,
+      "name": "Minion Masters - Mordar’s Malediction",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/MinionMastersMordarsMalediction.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/MinionMastersMordarsMalediction.jpg",
+      "description": "",
+      "price": "$9.00",
+      "date": "Sep 27 2021",
+      "url": "https://bit.ly/39zk9aw"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "I LIKE THE FLOWERS",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/3u91kUM"
+   },
    {
       "nada": 0,
       "store": "Microsoft",
@@ -60,7 +95,7 @@
       "date": "Sep ?? 2021",
       "url": "https://bit.ly/3kk7nCP"
    },
-      {
+   {
       "nada": 0,
       "store": "Steam",
       "coming": 0,
