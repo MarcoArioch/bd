@@ -14,12 +14,12 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "name": "Europa Universalis IV",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/EuropaUniversalisIV.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/EuropaUniversalisIV.jpg",
     "description": "",
     "price": "$5.00",
     "date": "Sep 30 2021",
-    "url": ""
+    "url": "https://bit.ly/3i1hNWq"
   }
 ]
