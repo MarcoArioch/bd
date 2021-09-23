@@ -1,35 +1,25 @@
 [
+
   {
     "store": "equis",
     "coming": 0,
-    "name": "Speed Brawl",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SpeedBrawl.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/SpeedBrawl.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 23 2021",
-    "url": "https://bit.ly/3ygDVSW"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Tharsis",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Tharsis.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Tharsis.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 23 2021",
-    "url": "https://bit.ly/2WYbtY5"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
     "name": "The Escapists",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TheEscapists.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TheEscapists.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Sep 23 2021",
+    "date": "Sep 30 2021",
     "url": "https://bit.ly/3CmcGYq"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 30 2021",
+    "url": ""
   }
 ]

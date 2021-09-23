@@ -2,6 +2,28 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Speed Brawl",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SpeedBrawl.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/SpeedBrawl.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 23 2021",
+    "url": "https://bit.ly/3ygDVSW"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Tharsis",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Tharsis.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Tharsis.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 23 2021",
+    "url": "https://bit.ly/2WYbtY5"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Nioh: The Complete Edition",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/NiohTheCompleteEdition.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/NiohTheCompleteEdition.jpg",
