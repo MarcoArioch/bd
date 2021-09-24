@@ -1,0 +1,15 @@
+2021-09-23 23:20:13: -- Analysis Started by User Command
+2021-09-23 23:20:13: L: State file does not exist: C:/Users/Admin/OneDrive/Documentos/PERSONAL/01.-Proyectos/Free Epic Games APP/100.-BDSincronizada/_gsdata_/_file_state_v4._gs
+2021-09-23 23:20:14: R: State file does not exist: s3s://s3.amazonaws.com/fegbd/_gsdata_/_file_state_v4._gs
+2021-09-23 23:20:14: /maps/freetoplay.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/mapa.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/oldmapa.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/oldother.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/oldtemporal.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/other.json: Conflict: New files that differ
+2021-09-23 23:20:14: /maps/temporal.json: Conflict: New files that differ
+2021-09-23 23:20:14: R: On disk s3s://s3.amazonaws.com space required for sync is 25.21 MB, free space is unknown
+2021-09-23 23:20:14: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2021-09-23 23:20:14: Changes: 1,252, Conflicts: 7, CopyTime: 0, FixState: 1, Errors: 0, All: 1257
+2021-09-23 23:20:14: Left to Right: Copy File: 1245 
+2021-09-23 23:20:14: -- Analysis Complete. Time 00:00:03, Speed: 419 files/s
