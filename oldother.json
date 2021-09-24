@@ -1,6 +1,42 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Titan Quest Anniversary Edition",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TitanQuestAnniversaryEdition.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TitanQuestAnniversaryEdition.jpg",
+      "description": "",
+      "price": "$9.00",
+      "date": "Sep 23 2021",
+      "url": "https://bit.ly/3ClSzd4"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Jagged Alliance 1: Gold Edition",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/JaggedAlliance1GoldEdition.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/JaggedAlliance1GoldEdition.jpg",
+      "description": "",
+      "price": "$5.50",
+      "date": "Sep 23 2021",
+      "url": "https://bit.ly/39h3vwg"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Kit Battlefield™ 1 Shortcut Kit: Ultimate Bundle",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/KitdeAtajodeBattlefield1PaqueteUltimate.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/KitdeAtajodeBattlefield1PaqueteUltimate.jpg",
+      "description": "",
+      "price": "$45.00",
+      "date": "Sep 23 2021",
+      "url": "https://bit.ly/3zfg2L2"
+   },
+   {
+      "nada": 0,
       "store": "Origin",
       "coming": 0,
       "name": "Battlefield 4™ Naval Strike",
