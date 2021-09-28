@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Hard Place",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/HardPlace.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/HardPlace.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Sep ?? 2021",
+      "url": ""
+   },
+   {
+      "nada": 0,
       "store": "Steam",
       "coming": 0,
       "name": "Banana Hell",
