@@ -3,13 +3,37 @@
       "nada": 0,
       "store": "Steam",
       "coming": 0,
-      "name": "Banana Hell",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/BananaHell.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/BananaHell.jpg",
+      "name": "Syberia",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
       "description": "",
-      "price": "$1.50",
-      "date": "Sep 27 2021",
-      "url": "https://bit.ly/3ENOSPz"
+      "price": "$5.00",
+      "date": "Sep 29 2021",
+      "url": "https://bit.ly/2XSSqPm"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Syberia II",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep 29 2021",
+      "url": "https://bit.ly/3unPeHQ"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "One Bit Arena",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/OneBitArena.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/OneBitArena.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/39JHaHA"
    },
    {
       "nada": 0,
@@ -25,25 +49,13 @@
    },
    {
       "nada": 0,
-      "store": "Steam - DLC",
-      "coming": 0,
-      "name": "Minion Masters - Mordar’s Malediction",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/MinionMastersMordarsMalediction.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/MinionMastersMordarsMalediction.jpg",
-      "description": "",
-      "price": "$7.50",
-      "date": "Sep 27 2021",
-      "url": "https://bit.ly/39zk9aw"
-   },
-   {
-      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "I LIKE THE FLOWERS",
       "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
       "description": "",
-      "price": "$0.00",
+      "price": "$5.00",
       "date": "Sep ?? 2021",
       "url": "https://bit.ly/3u91kUM"
    },
@@ -59,7 +71,6 @@
       "date": "Sep ?? 2021",
       "url": "https://bit.ly/3lCDBbL"
    },
-
    {
       "nada": 0,
       "store": "Steam",

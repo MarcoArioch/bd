@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "2064: Read Only Memories",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/2064ReadOnlyMemories.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/2064ReadOnlyMemories.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Sep 29 2021",
+    "url": "https://bit.ly/3ic3bU3"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "The Escapists.",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TheEscapists.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TheEscapists.jpg",
