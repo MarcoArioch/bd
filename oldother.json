@@ -1,6 +1,30 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Syberia",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep 29 2021",
+      "url": "https://bit.ly/2XSSqPm"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Syberia II",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep 29 2021",
+      "url": "https://bit.ly/3unPeHQ"
+   },
+   {
+      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Hard Place",

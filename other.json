@@ -1,27 +1,39 @@
 [
    {
       "nada": 0,
-      "store": "Steam",
+      "store": "Origin",
       "coming": 0,
-      "name": "Syberia",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Syberia.jpg",
+      "name": "Battlefield™ 1 Apocalypse",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield1Apocalypse.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield1Apocalypse.jpg",
       "description": "",
       "price": "$5.00",
-      "date": "Sep 29 2021",
-      "url": "https://bit.ly/2XSSqPm"
+      "date": "Oct 02 2021",
+      "url": "https://bit.ly/3kUZYKk"
    },
    {
       "nada": 0,
-      "store": "Steam",
+      "store": "Origin",
       "coming": 0,
-      "name": "Syberia II",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SyberiaII.jpg",
+      "name": "Battlefield 4™ Dragon's Teeth",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4DragonsTeeth.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4DragonsTeeth.jpg",
       "description": "",
       "price": "$5.00",
-      "date": "Sep 29 2021",
-      "url": "https://bit.ly/3unPeHQ"
+      "date": "Oct 02 2021",
+      "url": "https://bit.ly/3zYvTxL"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Skull Rogue",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SkullRogue.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SkullRogue.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/3m3WiWc"
    },
    {
       "nada": 0,
