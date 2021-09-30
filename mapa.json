@@ -14,12 +14,12 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "name": "PC Building Simulator",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/PCBuildingSimulator.jpg",
     "description": "",
     "price": "$5.00",
     "date": "Oct 07 2021",
-    "url": ""
+    "url": "https://bit.ly/2WpmjGy"
   }
 ]
