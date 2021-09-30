@@ -1,24 +1,25 @@
 [
+
   {
     "store": "equis",
     "coming": 0,
-    "name": "The Escapists",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TheEscapists.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TheEscapists.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Sep 30 2021",
-    "url": "https://bit.ly/3CmcGYq"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
     "name": "Europa Universalis IV",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/EuropaUniversalisIV.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/EuropaUniversalisIV.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Sep 30 2021",
+    "date": "Oct 07 2021",
     "url": "https://bit.ly/3i1hNWq"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 07 2021",
+    "url": ""
   }
 ]
