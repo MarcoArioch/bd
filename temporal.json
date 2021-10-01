@@ -1,5 +1,29 @@
 [
    {
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam",
+      "name": "Second Extinction™",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SecondExtinction.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/SecondExtinction.jpg",
+      "description": " ",
+      "price": "$7.00",
+      "date": "Oct 02 2021",
+      "url": "https://bit.ly/3CZ6nuc"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam - VR",
+      "name": "Blaston",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Blaston.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Blaston.jpg",
+      "description": " ",
+      "price": "$4.00",
+      "date": "Oct 03 2021",
+      "url": "https://bit.ly/3mg8aVg"
+   },
+   {
       "nada": 1,
       "store": "Steam",
       "name": "",
