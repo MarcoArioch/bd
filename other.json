@@ -1,27 +1,15 @@
 [
    {
       "nada": 0,
-      "store": "Origin",
+      "store": "Uplay",
       "coming": 0,
-      "name": "Battlefield™ 1 Apocalypse",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield1Apocalypse.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield1Apocalypse.jpg",
+      "name": "Tom Clancy’s Ghost Recon®",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TomClancysGhostRecon.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TomClancysGhostRecon.jpg",
       "description": "",
-      "price": "$5.00",
-      "date": "Oct 02 2021",
-      "url": "https://bit.ly/3kUZYKk"
-   },
-   {
-      "nada": 0,
-      "store": "Origin",
-      "coming": 0,
-      "name": "Battlefield 4™ Dragon's Teeth",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4DragonsTeeth.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4DragonsTeeth.jpg",
-      "description": "",
-      "price": "$5.00",
-      "date": "Oct 02 2021",
-      "url": "https://bit.ly/3zYvTxL"
+      "price": "$50.00",
+      "date": "Oct 11 2021",
+      "url": "https://bit.ly/3D90xqc"
    },
    {
       "nada": 0,
@@ -46,18 +34,6 @@
       "price": "$5.00",
       "date": "Sep ?? 2021",
       "url": "https://bit.ly/39JHaHA"
-   },
-   {
-      "nada": 0,
-      "store": "Steam - DLC",
-      "coming": 0,
-      "name": "Battlefield 4™ Soldier Shortcut Bundle",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4SoldierShortcutBundle.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Battlefield4SoldierShortcutBundle.jpg",
-      "description": "",
-      "price": "$12.50",
-      "date": "Sep 30 2021",
-      "url": "https://bit.ly/2ZszQhV"
    },
    {
       "nada": 0,
