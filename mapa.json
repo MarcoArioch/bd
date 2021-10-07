@@ -23,6 +23,17 @@
   },
   {
     "store": "equis",
+    "coming": 0,
+    "name": "Paladins",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Paladins.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Paladins.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "2021",
+    "url": "https://bit.ly/2Yw623C"
+  },
+  {
+    "store": "equis",
     "coming": 1,
     "name": "Paladins Epic Pack",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
