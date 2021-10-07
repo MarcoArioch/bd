@@ -13,12 +13,23 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/.jpg",
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/StubbstheZombieinRebelWithoutaPulse.jpg",
     "description": "",
     "price": "$5.00",
     "date": "Oct 14 2021",
-    "url": ""
+    "url": "https://bit.ly/3aedX82"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "Paquete Epic de Paladins",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/PaqueteEpicdePaladins.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 14 2021",
+    "url": "https://bit.ly/3Ak3B1c"
   }
 ]
