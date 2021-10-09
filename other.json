@@ -49,18 +49,6 @@
    },
    {
       "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "I LIKE THE FLOWERS",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ILIKETHEFLOWERS.jpg",
-      "description": "",
-      "price": "$5.00",
-      "date": "Sep ?? 2021",
-      "url": "https://bit.ly/3u91kUM"
-   },
-   {
-      "nada": 0,
       "store": "Microsoft",
       "coming": 0,
       "name": "MINECRAFT: EMERALD TYCOON",
@@ -106,18 +94,6 @@
       "price": "$0.00",
       "date": "2021",
       "url": "https://bit.ly/3y9mD9d"
-   },
-   {
-      "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Crazy space pirate",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Crazyspacepirate.PNG",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/Crazyspacepirate.jpg",
-      "description": "",
-      "price": "$0.00",
-      "date": "Sep ?? 2021",
-      "url": "https://bit.ly/3h6oBS8"
    },
    {
       "nada": 0,
