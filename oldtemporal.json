@@ -3,6 +3,18 @@
       "coming": 0,
       "nada": 0,
       "store": "Steam",
+      "name": "KungFu Kickball",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/KungFuKickball.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/KungFuKickball.jpg",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Oct 09 2021",
+      "url": "https://bit.ly/3FurOW6"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam",
       "name": "Doom & Destiny",
       "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Doom&Destiny.jpg",
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Doom&Destiny.jpg",
