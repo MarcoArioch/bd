@@ -1,28 +1,5 @@
 [
-   {
-      "nada": 0,
-      "store": "Steam",
-      "coming": 0,
-      "name": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TomClancysGhostReconWildlandsFallenGhosts.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/TomClancysGhostReconWildlandsFallenGhosts.jpg",
-      "description": "",
-      "price": "$0.00",
-      "date": "2021",
-      "url": "https://bit.ly/3an55wU"
-   },
-   {
-      "nada": 0,
-      "store": "Ubisoft connect",
-      "coming": 0,
-      "name": "Tom Clancy’s Ghost Recon®",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TomClancysGhostRecon.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/TomClancysGhostRecon.jpg",
-      "description": "",
-      "price": "$5.00",
-      "date": "Oct 11 2021",
-      "url": "https://bit.ly/3D90xqc"
-   },
+
    {
       "nada": 0,
       "store": "Indiegala",
