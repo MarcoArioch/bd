@@ -1,24 +1,13 @@
 [
   {
     "store": "equis",
-    "coming": 0 ,
-    "name": "PC Building Simulator",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Oct 14 2021",
-    "url": "https://bit.ly/2WpmjGy"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Stubbs the Zombie in Rebel Without a Pulse",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 14 2021",
+    "date": "Oct 21 2021",
     "url": "https://bit.ly/3aedX82"
   },
   {
@@ -40,7 +29,18 @@
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 14 2021",
+    "date": "Oct 21 2021",
     "url": "https://bit.ly/3Ak3B1c"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 21 2021",
+    "url": ""
   }
 ]

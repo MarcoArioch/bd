@@ -1,6 +1,17 @@
 [
   {
     "store": "equis",
+    "coming": 0 ,
+    "name": "PC Building Simulator",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 14 2021",
+    "url": "https://bit.ly/2WpmjGy"
+  },
+  {
+    "store": "equis",
     "coming": 0,
     "name": "Europa Universalis IV",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/EuropaUniversalisIV.jpg",
