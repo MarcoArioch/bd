@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "[NA/EU] Black Desert - FREE Gift Pack",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/NAEUBlackDesertFREEGiftPack.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/NAEUBlackDesertFREEGiftPack.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Oct ?? 2021",
+      "url": "https://bit.ly/3DQSzT0"
+   },
+   {
+      "nada": 0,
       "store": "Microsoft",
       "coming": 0,
       "name": "MINECRAFT: EMERALD TYCOON",
@@ -8,7 +20,7 @@
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/MINECRAFTEMERALDTYCOON.jpg",
       "description": "",
       "price": "$5.00",
-      "date": "Sep ?? 2021",
+      "date": "2021",
       "url": "https://bit.ly/3lCDBbL"
    },
    {
