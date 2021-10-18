@@ -24,6 +24,54 @@
       "url": "https://bit.ly/3DQSzT0"
    },
    {
+      "coming": 0,
+      "nada": 0,
+      "store": "Indiegala",
+      "name": "Die Young: Prologue",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DieYoungPrologue.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/DieYoungPrologue.jpg",
+      "description": " ",
+      "price": "$7.99",
+      "date": "May ?? 2021",
+      "url": "https://bit.ly/2M22QWO"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
+      "store": "Indiegala",
+      "name": "Chop Chop Princess!",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/ChopChopPrincess.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ChopChopPrincess.jpg",
+      "description": " ",
+      "price": "$?.??",
+      "date": "Jan 2021",
+      "url": "https://bit.ly/2XpKnpJ"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "One Bit Arena",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/OneBitArena.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/OneBitArena.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/39JHaHA"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Skull Rogue",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SkullRogue.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SkullRogue.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Sep ?? 2021",
+      "url": "https://bit.ly/3m3WiWc"
+   },
+   {
       "nada": 0,
       "store": "Microsoft",
       "coming": 0,
