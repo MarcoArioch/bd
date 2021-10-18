@@ -24,6 +24,42 @@
       "url": "https://bit.ly/3DQSzT0"
    },
    {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Renzo Racer",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Oct ?? 2021",
+      "url": "https://bit.ly/3BUqKZF"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Lightfish",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Lightfish.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Lightfish.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Oct ?? 2021",
+      "url": "https://bit.ly/2YYKlJs"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Oct ?? 2021",
+      "url": ""
+   },
+   {
       "coming": 0,
       "nada": 0,
       "store": "Indiegala",
@@ -32,7 +68,7 @@
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/DieYoungPrologue.jpg",
       "description": " ",
       "price": "$7.99",
-      "date": "May ?? 2021",
+      "date": "Oct ?? 2021",
       "url": "https://bit.ly/2M22QWO"
    },
    {
@@ -44,7 +80,7 @@
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/bg/ChopChopPrincess.jpg",
       "description": " ",
       "price": "$?.??",
-      "date": "Jan 2021",
+      "date": "Oct ?? 2021",
       "url": "https://bit.ly/2XpKnpJ"
    },
    {
@@ -56,7 +92,7 @@
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/OneBitArena.jpg",
       "description": "",
       "price": "$5.00",
-      "date": "Sep ?? 2021",
+      "date": "Oct ?? 2021",
       "url": "https://bit.ly/39JHaHA"
    },
    {
@@ -68,7 +104,7 @@
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SkullRogue.jpg",
       "description": "",
       "price": "$5.00",
-      "date": "Sep ?? 2021",
+      "date": "Oct ?? 2021",
       "url": "https://bit.ly/3m3WiWc"
    },
    {
