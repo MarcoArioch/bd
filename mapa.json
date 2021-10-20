@@ -34,6 +34,17 @@
   },
   {
     "store": "equis",
+    "coming": 0,
+    "name": "$10 Epic Coupon, Subscribe to Epic Games emails",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Coupon.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/coupon.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 21 2021",
+    "url": "https://bit.ly/3m0C40G"
+  },
+  {
+    "store": "equis",
     "coming": 1,
     "name": "Among the Sleep - Enhanced Edition",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
