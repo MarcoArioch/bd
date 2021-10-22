@@ -12,6 +12,18 @@
       "url": "https://bit.ly/3kc22Ln"
    },
    {
+      "coming": 0,
+      "nada": 0,
+      "store": "Uplay",
+      "name": "Riders Republic",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RidersRepublic.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RidersRepublic.jpg",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Oct 24 2021",
+      "url": "https://bit.ly/3ng9Zlq"
+   },
+   {
       "nada": 1,
       "store": "Steam",
       "name": "",
