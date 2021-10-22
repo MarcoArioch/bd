@@ -1,6 +1,39 @@
 [
   {
     "store": "equis",
+    "coming": 0,
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 21 2021",
+    "url": "https://bit.ly/3aedX82"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Paladins",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Paladins.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Paladins.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "2021",
+    "url": "https://bit.ly/2Yw623C"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Paladins Epic Pack",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Oct 21 2021",
+    "url": "https://bit.ly/3Ak3B1c"
+  },
+  {
+    "store": "equis",
     "coming": 0 ,
     "name": "PC Building Simulator",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PCBuildingSimulator.jpg",

@@ -2,35 +2,13 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Stubbs the Zombie in Rebel Without a Pulse",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/StubbstheZombieinRebelWithoutaPulse.jpg",
+    "name": "Among the Sleep - Enhanced Edition",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 21 2021",
-    "url": "https://bit.ly/3aedX82"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Paladins",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Paladins.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Paladins.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "2021",
-    "url": "https://bit.ly/2Yw623C"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Paladins Epic Pack",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/PaqueteEpicdePaladins.jpg",
-    "description": "",
-    "price": "$5.00",
-    "date": "Oct 21 2021",
-    "url": "https://bit.ly/3Ak3B1c"
+    "date": "Oct 28 2021",
+    "url": "https://bit.ly/3lI0YSQ"
   },
   {
     "store": "equis",
@@ -46,12 +24,12 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "Among the Sleep - Enhanced Edition",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
+    "name": "DARQ: COMPLETE EDITION",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13tX9zIkWoeJEakFdmxe1PFTQF8r7rsxbNw&usqp=CAU",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 21 2021",
-    "url": "https://bit.ly/3lI0YSQ"
+    "date": "Oct 28 2021",
+    "url": "https://bit.ly/3nlNhIS"
   }
 ]
