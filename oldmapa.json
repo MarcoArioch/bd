@@ -1022,7 +1022,7 @@
     "date": "Sep 10, 2020",
     "url": "https://bit.ly/3kk3MCf"
   },
-  {
+  { 
     "store": "equis",
     "coming": 0,
     "name": "Grand Theft Auto V: Premium Edition",
@@ -1048,8 +1048,8 @@
     "store": "equis",
     "coming": 0,
     "name": "Hitman",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/Hitchman.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2020/bg/Hitchman.jpg",
+    "image": "https://i.ibb.co/c3MLwTK/Hitchman.jpg",
+    "background": "https://i.ibb.co/c3MLwTK/Hitchman.jpg",
     "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! ",
     "price": "$14.99",
     "date": "Sep 27, 2020",
