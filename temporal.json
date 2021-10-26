@@ -1,51 +1,15 @@
-[   
-   {
-   "coming": 0,
-   "nada": 0,
-   "store": "Steam",
-   "name": "RiMS Racing",
-   "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
-   "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
-   "description": " ",
-   "price": "$5.00",
-   "date": "Oct 28 2021",
-   "url": "https://bit.ly/3BhcuJf"
-},
+[
    {
       "coming": 0,
       "nada": 0,
       "store": "Steam",
-      "name": "Dead by Daylight",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DeadbyDaylight.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DeadbyDaylight.jpg",
+      "name": "RiMS Racing",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
       "description": " ",
       "price": "$5.00",
-      "date": "Oct 24 2021",
-      "url": "https://bit.ly/2HENRk7"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Steam",
-      "name": "Fallout 76",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Fallout762.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Fallout762.jpg",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Oct 24 2021",
-      "url": "https://bit.ly/3kc22Ln"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Uplay",
-      "name": "Riders Republic",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RidersRepublic.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RidersRepublic.jpg",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Oct 24 2021",
-      "url": "https://bit.ly/3ng9Zlq"
+      "date": "Oct 28 2021",
+      "url": "https://bit.ly/3BhcuJf"
    },
    {
       "nada": 1,
