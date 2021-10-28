@@ -2,13 +2,13 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Among the Sleep - Enhanced Edition",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
+    "name": "DARQ: COMPLETE EDITION",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 28 2021",
-    "url": "https://bit.ly/3lI0YSQ"
+    "date": "Nov 04 2021",
+    "url": "https://bit.ly/3nlNhIS"
   },
   {
     "store": "equis",
@@ -24,12 +24,12 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "DARQ: COMPLETE EDITION",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
+    "name": "Aven Colony",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_AvenColony_MothershipEntertainmentLLC_S3_2560x1440-3276f29fde89052103f0b650420d256b?h=480&resize=1&w=854",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Oct 28 2021",
-    "url": "https://bit.ly/3nlNhIS"
+    "date": "Nov 04 2021",
+    "url": "https://bit.ly/3nwWzlc"
   }
 ]
