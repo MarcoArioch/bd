@@ -1,16 +1,5 @@
 [
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Steam",
-      "name": "RiMS Racing",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RiMSRacing.jpg",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Oct 28 2021",
-      "url": "https://bit.ly/3BhcuJf"
-   },
+
    {
       "nada": 1,
       "store": "Steam",
