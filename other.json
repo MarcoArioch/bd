@@ -13,6 +13,18 @@
    },
    {
       "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Oct ?? 2021",
+      "url": "https://bit.ly/2ZhDQSq"
+   },
+   {
+      "nada": 0,
       "store": "Itch.io",
       "coming": 0,
       "name": "Untangle",
