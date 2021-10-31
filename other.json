@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Drones, The Human Condition",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DronesTheHumanCondition.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DronesTheHumanCondition.jpg",
+      "description": "",
+      "price": "$0.00",
+      "date": "Oct ?? 2021",
+      "url": "https://bit.ly/3CyIry3"
+   },
+   {
+      "nada": 0,
       "store": "Itch.io",
       "coming": 0,
       "name": "Untangle",
