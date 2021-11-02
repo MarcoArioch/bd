@@ -1,18 +1,6 @@
 [
    {
       "nada": 0,
-      "store": "Steam",
-      "coming": 0,
-      "name": "Drones, The Human Condition",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DronesTheHumanCondition.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DronesTheHumanCondition.jpg",
-      "description": "",
-      "price": "$0.00",
-      "date": "Nov 01 2021",
-      "url": "https://bit.ly/3CyIry3"
-   },
-   {
-      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Dead Hungry Diner",
@@ -85,18 +73,6 @@
    },
    {
       "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Colortone",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Colortone.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/Colortone.jpg",
-      "description": "",
-      "price": "$5.00",
-      "date": "Oct ?? 2021",
-      "url": "https://bit.ly/2ZhDQSq"
-   },
-   {
-      "nada": 0,
       "store": "Steam",
       "coming": 0,
       "name": "[NA/EU] Black Desert - FREE Gift Pack",
@@ -118,18 +94,6 @@
       "price": "$5.00",
       "date": "2021",
       "url": "https://bit.ly/3lCDBbL"
-   },
-   {
-      "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Renzo Racer",
-      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
-      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
-      "description": "",
-      "price": "$5.00",
-      "date": "Oct ?? 2021",
-      "url": "https://bit.ly/3BUqKZF"
    },
    {
       "coming": 0,
