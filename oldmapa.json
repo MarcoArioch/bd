@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "DARQ: COMPLETE EDITION",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 04 2021",
+    "url": "https://bit.ly/3nlNhIS"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Among the Sleep - Enhanced Edition",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AmongtheSleepEnhancedEdition.jpg",

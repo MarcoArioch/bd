@@ -2,13 +2,13 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "DARQ: COMPLETE EDITION",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
+    "name": "Aven Colony",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 04 2021",
-    "url": "https://bit.ly/3nlNhIS"
+    "date": "Nov 11 2021",
+    "url": "https://bit.ly/3nwWzlc"
   },
   {
     "store": "equis",
@@ -24,12 +24,12 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "Aven Colony",
-    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
-    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
+    "name": "Rogue Company Season Four Epic Pack",
+    "image": "https://i.ibb.co/RQ6BZ0c/Aven-Colony.jpg",
+    "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 04 2021",
-    "url": "https://bit.ly/3nwWzlc"
+    "date": "Nov 11 2021",
+    "url": "https://bit.ly/3CNDZeX"
   }
 ]
