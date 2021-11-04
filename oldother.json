@@ -3,6 +3,18 @@
       "nada": 0,
       "store": "Indiegala",
       "coming": 0,
+      "name": "Secrets of Magic: The Book of Spells",
+      "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SecretsofMagicTheBookofSpells.jpg",
+      "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/SecretsofMagicTheBookofSpells.jpg",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/315Urtj"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
       "name": "Renzo Racer",
       "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
       "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/RenzoRacer.jpg",
