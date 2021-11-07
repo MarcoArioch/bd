@@ -2,6 +2,18 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "Steam",
+      "name": "Space Slurpies",
+      "image": "https://i.ibb.co/TBXVMZ7/Space-Slurpies.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Nov 08 2021",
+      "url": "https://bit.ly/3wqAjgI"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Epic Games/ U Connect",
       "name": "Ghost Recon Breakpoint",
       "image": "https://i.ibb.co/4ZsnfbZ/ghostreconbreakpoint.jpg",
