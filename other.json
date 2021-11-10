@@ -3,6 +3,18 @@
       "nada": 0,
       "store": "Steam",
       "coming": 0,
+      "name": "Beholder",
+      "image": "https://i.ibb.co/ScZG5vm/Beholder.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3C21uzN"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
       "name": "SteamWorld Dig 2",
       "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
       "background": "",
@@ -13,15 +25,15 @@
    },
    {
       "nada": 0,
-      "store": "Steam",
+      "store": "GoG",
       "coming": 0,
-      "name": "Beholder",
-      "image": "https://i.ibb.co/ScZG5vm/Beholder.jpg",
+      "name": "SteamWorld Dig 2",
+      "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
       "background": "",
       "description": "",
       "price": "$5.00",
       "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3C21uzN"
+      "url": "https://bit.ly/30ewrU0"
    },
    {
       "nada": 0,
