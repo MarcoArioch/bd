@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+    "image": "https://i.ibb.co/4sXBtD4/Tiny-Tinas-Assault-on-Dragon-Keep-A-Wonderlands-One-shot-Adventure.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 16 2021",
+    "url": "https://bit.ly/3n3mSAD"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Aven Colony",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
