@@ -35,12 +35,34 @@
   {
     "store": "equis",
     "coming": 1,
-    "name": "",
+    "name": "Guild of Dungeoneering",
     "image": "",
     "background": "",
     "description": "",
     "price": "$5.00",
     "date": "Nov 18 2021",
-    "url": ""
+    "url": "https://bit.ly/3knWlw3"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "KID A MNESIA EXHIBITION",
+    "image": "",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 18 2021",
+    "url": "https://bit.ly/3HnAleG"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "Never Alone (Kisima Ingitchuna)",
+    "image": "",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 18 2021",
+    "url": "https://bit.ly/3onPjbA"
   }
 ]
