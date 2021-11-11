@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Aven Colony",
+    "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
+    "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/AvenColony.jpg",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 11 2021",
+    "url": "https://bit.ly/3nwWzlc"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "DARQ: COMPLETE EDITION",
     "image": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
     "background": "https://raw.githubusercontent.com/MarcoArioch/bd/main/images/2021/DARQCOMPLETEEDITION.jpg",
