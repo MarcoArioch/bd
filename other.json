@@ -2,6 +2,17 @@
    {
       "store": "Steam",
       "coming": 0,
+      "name": "Assassin's Creed Chronicles Trilogy",
+      "image": "https://i.ibb.co/nMGDJTb/ac-chronicles-trilogy.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov 12 2021",
+      "url": "https://bit.ly/2YJ7b8k"
+   },
+   {
+      "store": "Steam",
+      "coming": 0,
       "name": "Beholder",
       "image": "https://i.ibb.co/ScZG5vm/Beholder.jpg",
       "background": "",
