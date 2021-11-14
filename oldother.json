@@ -1,6 +1,53 @@
 [
    {
       "nada": 0,
+      "store": "GoG",
+      "coming": 0,
+      "name": "SteamWorld Dig 2",
+      "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/30ewrU0"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Beholder",
+      "image": "https://i.ibb.co/ScZG5vm/Beholder.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3C21uzN"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Assassin's Creed Chronicles Trilogy.",
+      "image": "https://i.ibb.co/nMGDJTb/ac-chronicles-trilogy.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov 12 2021",
+      "url": "https://bit.ly/2YJ7b8k"
+   },
+   {
+      "nada": 0,
+      "store": "Steam",
+      "name": "SteamWorld Dig 2",
+      "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3bX66g0"
+   },
+   {
+      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Secrets of Magic: The Book of Spells",

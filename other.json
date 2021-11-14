@@ -3,53 +3,6 @@
       "nada": 0,
       "store": "Steam",
       "coming": 0,
-      "name": "Assassin's Creed Chronicles Trilogy.",
-      "image": "https://i.ibb.co/nMGDJTb/ac-chronicles-trilogy.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov 12 2021",
-      "url": "https://bit.ly/2YJ7b8k"
-   },
-   {
-      "nada": 0,
-      "store": "Steam",
-      "coming": 0,
-      "name": "Beholder",
-      "image": "https://i.ibb.co/ScZG5vm/Beholder.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3C21uzN"
-   },
-   {
-      "nada": 0,
-      "store": "Steam",
-      "name": "SteamWorld Dig 2",
-      "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3bX66g0"
-   },
-   {
-      "nada": 0,
-      "store": "GoG",
-      "coming": 0,
-      "name": "SteamWorld Dig 2",
-      "image": "https://i.ibb.co/DW6Rn51/Steam-World-Dig-2.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/30ewrU0"
-   },
-   {
-      "nada": 0,
-      "store": "Steam",
-      "coming": 0,
       "name": "World of Warships",
       "image": "https://i.ibb.co/T8TsDHd/World-of-Warships.jpg",
       "background": "",
@@ -72,6 +25,42 @@
    },
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "[NA/EU] Black Desert - FREE Gift Pack",
+      "image": "https://i.ibb.co/DW8mNmT/NAEUBlack-Desert-FREEGift-Pack.jpg",
+      "background": "",
+      "description": "",
+      "price": "$0.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3DQSzT0"
+   },
+   {
+      "nada": 0,
+      "store": "Microsoft",
+      "coming": 0,
+      "name": "MINECRAFT: EMERALD TYCOON",
+      "image": "https://i.ibb.co/zSZcvHK/MINECRAFTEMERALDTYCOON.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "2021",
+      "url": "https://bit.ly/3lCDBbL"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
+      "store": "Steam",
+      "name": "PAYDAY 2 DLCS",
+      "image": "https://i.ibb.co/DVkV26g/pd2-socialmedia.png",
+      "background": "   ",
+      "description": " ",
+      "price": "$??",
+      "date": "2021",
+      "url": "https://bit.ly/3jTTfO0"
+   },
+   {
+      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Cheap Golf",
@@ -85,18 +74,6 @@
    {
       "nada": 0,
       "store": "Steam",
-      "coming": 0,
-      "name": "Ann",
-      "image": "https://i.ibb.co/K6XWcNV/Ann.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3wlUXPf"
-   },
-   {
-      "nada": 0,
-      "store": "Itch.io",
       "coming": 0,
       "name": "Ann",
       "image": "https://i.ibb.co/K6XWcNV/Ann.jpg",
@@ -179,30 +156,6 @@
       "url": "https://bit.ly/3mfj9zk"
    },
    {
-      "nada": 0,
-      "store": "Steam",
-      "coming": 0,
-      "name": "[NA/EU] Black Desert - FREE Gift Pack",
-      "image": "https://i.ibb.co/DW8mNmT/NAEUBlack-Desert-FREEGift-Pack.jpg",
-      "background": "",
-      "description": "",
-      "price": "$0.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3DQSzT0"
-   },
-   {
-      "nada": 0,
-      "store": "Microsoft",
-      "coming": 0,
-      "name": "MINECRAFT: EMERALD TYCOON",
-      "image": "https://i.ibb.co/zSZcvHK/MINECRAFTEMERALDTYCOON.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "2021",
-      "url": "https://bit.ly/3lCDBbL"
-   },
-   {
       "coming": 0,
       "nada": 0,
       "store": "Indiegala",
@@ -261,17 +214,5 @@
       "price": "$2.49",
       "date": "2021",
       "url": "https://bit.ly/3793DxU"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Steam",
-      "name": "PAYDAY 2 DLCS",
-      "image": "https://i.ibb.co/DVkV26g/pd2-socialmedia.png",
-      "background": "   ",
-      "description": " ",
-      "price": "$??",
-      "date": "2021",
-      "url": "https://bit.ly/3jTTfO0"
    }
 ]
