@@ -1,6 +1,30 @@
 [
    {
       "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Dino Run DX",
+      "image": "https://i.ibb.co/bKbwbYL/Dino-Run-DX.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/30l95fQ"
+   },
+   {
+      "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Kill 'Em All",
+      "image": "https://i.ibb.co/TPn0MHp/Kill-Em-All.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3FeMxMW"
+   },
+   {
+      "nada": 0,
       "store": "Steam",
       "coming": 0,
       "name": "World of Warships",
