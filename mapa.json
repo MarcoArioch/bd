@@ -2,56 +2,45 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Rogue Company Season Four Epic Pack",
-    "image": "https://i.ibb.co/7td3m8x/Ro-Co-S4-Epic-Pack-Hero-Carousel-1920x1080-1920x1080-f0542d55a307ac8d06149f1b8c64841f.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Nov 18 2021",
-    "url": "https://bit.ly/3CNDZeX"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Rogue Company",
-    "image": "https://i.ibb.co/s6wrSN9/Roguecompany.jpg",
-    "background": "",
-    "description": "",
-    "price": "$0.00",
-    "date": "2021",
-    "url": "https://bit.ly/36PKAZj"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
     "name": "Guild of Dungeoneering",
     "image": "https://i.ibb.co/CzsZTDd/Guild-of-Dungeoneering.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 18 2021",
+    "date": "Nov 25 2021",
     "url": "https://bit.ly/3knWlw3"
   },
   {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "KID A MNESIA EXHIBITION",
     "image": "https://i.ibb.co/ZT5rMxZ/KID-A-MNESIA-EXHIBITION.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 18 2021",
+    "date": "Nov 25 2021",
     "url": "https://bit.ly/3HnAleG"
   },
   {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Never Alone (Kisima Ingitchuna)",
     "image": "https://i.ibb.co/h11GWvV/Never-Alone-Kisima-Ingitchuna.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 18 2021",
+    "date": "Nov 25 2021",
     "url": "https://bit.ly/3onPjbA"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Nov 25 2021",
+    "url": ""
   }
 ]
