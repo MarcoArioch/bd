@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Halo Infinite",
+      "image": "https://i.ibb.co/CHBR1ps/haloinfinite.jpg",
+      "background": "",
+      "description": "",
+      "price": "$0.00",
+      "date": "Nov 15 2021",
+      "url": "https://bit.ly/3HAUXAd"
+   },
+   {
+      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Warhammer: End Times - Vermintide",
