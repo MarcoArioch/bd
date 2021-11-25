@@ -2,45 +2,23 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Guild of Dungeoneering",
-    "image": "https://i.ibb.co/CzsZTDd/Guild-of-Dungeoneering.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Nov 25 2021",
-    "url": "https://bit.ly/3knWlw3"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "KID A MNESIA EXHIBITION",
-    "image": "https://i.ibb.co/ZT5rMxZ/KID-A-MNESIA-EXHIBITION.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Nov 25 2021",
-    "url": "https://bit.ly/3HnAleG"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Never Alone (Kisima Ingitchuna)",
-    "image": "https://i.ibb.co/h11GWvV/Never-Alone-Kisima-Ingitchuna.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Nov 25 2021",
-    "url": "https://bit.ly/3onPjbA"
-  },
-  {
-    "store": "equis",
-    "coming": 1,
     "name": "theHunter: Call of the Wild™",
     "image": "https://i.ibb.co/JQrqMPn/the-Hunter-Callofthe-Wild.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Nov 25 2021",
+    "date": "Dec 02 2021",
     "url": "https://bit.ly/3CtSYtH"
+  },
+  {
+    "store": "equis",
+    "coming": 1,
+    "name": "",
+    "image": "",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 02 2021",
+    "url": ""
   }
 ]
