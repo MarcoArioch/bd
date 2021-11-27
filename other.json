@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Steam - DLC",
+      "coming": 0,
+      "name": "Train Simulator: Amtrak P42DC 50th Anniversary Collector’s Edition",
+      "image": "https://i.ibb.co/PtMDB5y/Train-Simulator-Amtrak-P42-DC-50th-Anniversary-Collectors-Edition.jpg",
+      "background": "",
+      "description": "",
+      "price": "$0.00",
+      "date": "Nov ?? 2021",
+      "url": "https://bit.ly/3lb0vaL"
+   },
+   {
+      "nada": 0,
       "store": "Fanatical",
       "coming": 0,
       "name": "Warhammer: End Times - Vermintide",
