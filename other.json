@@ -10,7 +10,7 @@
       "price": "$29.99",
       "date": "Nov 30 2021",
       "url": "https://bit.ly/32AYiPP"
-   },   
+   },
    {
       "nada": 0,
       "store": "Steam",
@@ -37,42 +37,6 @@
    },
    {
       "nada": 0,
-      "store": "Ubisoft Connect",
-      "coming": 0,
-      "name": "Tom Clancy's Splinter Cell Chaos Theory",
-      "image": "https://i.ibb.co/pWxcm2L/Tom-Clancy-s-Splinter-Cell-Chaos-Theory.jpgs",
-      "background": "",
-      "description": "",
-      "price": "$10.00",
-      "date": "Nov 25 2021",
-      "url": "https://bit.ly/3FrjsxE"
-   },
-   {
-      "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Glorkian Warrior: The Trials Of Glork",
-      "image": "https://i.ibb.co/bWsrcN2/Glorkian-Warrior-The-Trials-Of-Glork.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3ouGWeI"
-   },
-   {
-      "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Dino Run DX",
-      "image": "https://i.ibb.co/bKbwbYL/Dino-Run-DX.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/30l95fQ"
-   },
-   {
-      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Kill 'Em All",
@@ -92,7 +56,7 @@
       "background": "",
       "description": "",
       "price": "$0.00",
-      "date": "Nov ?? 2021",
+      "date": "2021",
       "url": "https://bit.ly/3DQSzT0"
    },
    {
@@ -142,30 +106,6 @@
       "price": "$5.00",
       "date": "Nov ?? 2021",
       "url": "https://bit.ly/3CyF4am"
-   },
-   {
-      "nada": 0,
-      "store": "Itch.io",
-      "coming": 0,
-      "name": "Crossing to the Cold Valley",
-      "image": "https://i.ibb.co/xYqdyP2/Crossingtothe-Cold-Valley.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3bseBPZ"
-   },
-   {
-      "nada": 0,
-      "store": "Itch.io",
-      "coming": 0,
-      "name": "Untangle",
-      "image": "https://i.ibb.co/1Q780Fj/Untangle.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Nov ?? 2021",
-      "url": "https://bit.ly/3jYIcp1"
    },
    {
       "coming": 0,
