@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "theHunter: Call of the Wild™",
+    "image": "https://i.ibb.co/JQrqMPn/the-Hunter-Callofthe-Wild.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 02 2021",
+    "url": "https://bit.ly/3CtSYtH"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Guild of Dungeoneering",
     "image": "https://i.ibb.co/CzsZTDd/Guild-of-Dungeoneering.jpg",
     "background": "",
