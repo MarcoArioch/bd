@@ -1,26 +1,6 @@
 [
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Dead by Daylight",
-    "image": "https://i.ibb.co/mvKH6j9/Dead-by-Daylight.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Dec 09 2021",
-    "url": "https://bit.ly/3CSI3tu"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "while True: learn()",
-    "image": "https://i.ibb.co/myWd7Nn/Data-Scientist-Edition.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Dec 09 2021",
-    "url": "https://bit.ly/3FNUPf2"
-  },
+
+  
   {
     "store": "equis",
     "coming": 1,
