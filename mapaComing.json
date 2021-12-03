@@ -3,7 +3,7 @@
   
   {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Godfall",
     "image": "https://i.ibb.co/v1XWdJS/Godfall.jpg",
     "background": "",
@@ -14,7 +14,7 @@
   },
   {
     "store": "equis",
-    "coming": 1,
+    "coming": 0,
     "name": "Prison Architect",
     "image": "https://i.ibb.co/xLFxG2H/Prison-Architect.jpg",
     "background": "",
