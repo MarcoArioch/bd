@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Die Young",
+      "image": "https://i.ibb.co/XzscMKM/DieYoung.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Dec ?? 2021",
+      "url": "https://bit.ly/3ppP4xw"
+   },
+   {
+      "nada": 0,
       "store": "GoG",
       "coming": 0,
       "name": "Crime Cities",
