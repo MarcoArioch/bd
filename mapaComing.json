@@ -2,23 +2,12 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "",
-    "image": "",
+    "name": "Game",
+    "image": "https://i.ibb.co/RczdTD0/misterio.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
     "date": "Dec 16 2021",
-    "url": ""
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "",
-    "image": "",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Dec 16 2021",
-    "url": ""
+    "url": "https://bit.ly/3tDKM5C"
   }
 ]
