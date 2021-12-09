@@ -2,23 +2,23 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Godfall",
-    "image": "https://i.ibb.co/v1XWdJS/Godfall.jpg",
+    "name": "",
+    "image": "",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Dec 09 2021",
-    "url": "https://bit.ly/3xMW1fA"
+    "date": "Dec 16 2021",
+    "url": ""
   },
   {
     "store": "equis",
     "coming": 0,
-    "name": "Prison Architect",
-    "image": "https://i.ibb.co/xLFxG2H/Prison-Architect.jpg",
+    "name": "",
+    "image": "",
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Dec 09 2021",
-    "url": "https://bit.ly/3xMp96M"
+    "date": "Dec 16 2021",
+    "url": ""
   }
 ]
