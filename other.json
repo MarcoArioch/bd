@@ -15,18 +15,6 @@
       "nada": 0,
       "store": "Steam",
       "coming": 0,
-      "name": "Get Exit Limbo",
-      "image": "https://i.ibb.co/gdQpR49/Get-Exit-Limbo.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Dec ?? 2021",
-      "url": "https://bit.ly/3uZORlB"
-   },
-   {
-      "nada": 0,
-      "store": "Steam",
-      "coming": 0,
       "name": "Call of Juarez: Gunslinger",
       "image": "https://i.ibb.co/7t3GtB6/callofjuarez.jpg",
       "background": "",
@@ -49,6 +37,18 @@
    },
    {
       "nada": 0,
+      "store": "Steam",
+      "coming": 0,
+      "name": "Get Exit Limbo",
+      "image": "https://i.ibb.co/gdQpR49/Get-Exit-Limbo.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Dec ?? 2021",
+      "url": "https://bit.ly/3uZORlB"
+   },
+   {
+      "nada": 0,
       "store": "Indiegala",
       "coming": 0,
       "name": "Die Young",
@@ -59,7 +59,6 @@
       "date": "Dec ?? 2021",
       "url": "https://bit.ly/3ppP4xw"
    },
-
    {
       "nada": 0,
       "store": "Steam",
