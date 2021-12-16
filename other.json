@@ -2,6 +2,18 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "GoG",
+      "name": "The Witcher Goodies Collection",
+      "image": "https://i.ibb.co/HPLxzn6/thewgc.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Jan 05 2022",
+      "url": "https://bit.ly/3waPQ30"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Indiegala",
       "name": "Snowball",
       "image": "https://i.ibb.co/NTS46hK/Snowball.jpg",
