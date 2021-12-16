@@ -2,6 +2,28 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Godfall Challenger Edition",
+    "image": "https://i.ibb.co/v1XWdJS/Godfall.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 16 2021",
+    "url": "https://bit.ly/3EEB7lK"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Prison Architect",
+    "image": "https://i.ibb.co/xLFxG2H/Prison-Architect.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 16 2021",
+    "url": "https://bit.ly/3xMp96M"
+  }
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Dead by Daylight",
     "image": "https://i.ibb.co/mvKH6j9/Dead-by-Daylight.jpg",
     "background": "",
