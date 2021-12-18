@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Neon Abyss",
+    "image": "https://i.ibb.co/NKMsYwg/Neon-Abyss.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 18 2021",
+    "url": "https://bit.ly/3FlEbUh"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Shenmue 3",
     "image": "https://i.ibb.co/C2KMX2x/Shenmue3.jpg",
     "background": "",
@@ -31,7 +42,7 @@
     "price": "$5.00",
     "date": "Dec 16 2021",
     "url": "https://bit.ly/3xMp96M"
-  }
+  },
   {
     "store": "equis",
     "coming": 0,
