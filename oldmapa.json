@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Remnant: From the Ashes",
+    "image": "https://i.ibb.co/4pMJDGt/Remnant-Fromthe-Ashes.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 19 2021",
+    "url": "https://bit.ly/33u3Pb5"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Neon Abyss",
     "image": "https://i.ibb.co/NKMsYwg/Neon-Abyss.jpg",
     "background": "",
