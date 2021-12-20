@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Second Extinction™",
+    "image": "https://i.ibb.co/gtZF0kX/Second-Extinction.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 21 2021",
+    "url": "https://bit.ly/3sklD2K"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Mysterious game",
     "image": "https://i.ibb.co/GvsLHK4/gift21.jpg",
     "background": "",
