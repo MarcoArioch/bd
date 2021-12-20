@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "The Vanishing of Ethan Carter",
+    "image": "https://i.ibb.co/DG27F7L/The-Vanishingof-Ethan-Carter.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 20 2021",
+    "url": "https://bit.ly/3mi2I4Q"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Remnant: From the Ashes",
     "image": "https://i.ibb.co/4pMJDGt/Remnant-Fromthe-Ashes.jpg",
     "background": "",
