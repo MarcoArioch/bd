@@ -2,18 +2,6 @@
    {
       "coming": 0,
       "nada": 0,
-      "store": "Steam",
-      "name": "Press Any Button",
-      "image": "https://i.ibb.co/M8wGj9t/Press-Any-Button.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Dec 19 2021",
-      "url": "https://bit.ly/3wK8Nuf"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
       "store": "Indiegala",
       "name": "NORTH",
       "image": "https://i.ibb.co/nwbL8dR/NORTH.jpg",
@@ -59,7 +47,6 @@
       "date": "Dec 22 2021",
       "url": "https://bit.ly/3ypVBfE"
    },
-
    {
       "nada": 0,
       "store": "Steam",
@@ -104,7 +91,7 @@
       "image": "https://i.ibb.co/DVkV26g/pd2-socialmedia.png",
       "background": "   ",
       "description": " ",
-      "price": "$??",
+      "price": "$?.?",
       "date": "2021",
       "url": "https://bit.ly/3jTTfO0"
    },
