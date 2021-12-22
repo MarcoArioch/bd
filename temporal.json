@@ -2,18 +2,6 @@
    {
       "coming": 0,
       "nada": 0,
-      "store": "Battle.net",
-      "name": "Call Of Duty: Vanguard Multiplayer",
-      "image": "https://i.ibb.co/CtRRCPB/Call-Of-Duty-Vanguardmp.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$60.00",
-      "date": "Dec 21 2021",
-      "url": "https://bit.ly/3mgxwmy"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
       "store": "Steam",
       "name": "ARK: Survival Evolved",
       "image": "https://i.ibb.co/58k7MYY/ARKSurvival-Evolved.jpg",
@@ -22,18 +10,6 @@
       "price": "$5.00",
       "date": "Dec 22 2021",
       "url": "https://bit.ly/34Yjn5k"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Steam",
-      "name": "NARAKA: BLADEPOINT",
-      "image": "https://i.ibb.co/ZJxQvZD/NARAKABLADEPOINT.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$10.00",
-      "date": "Dec 21 2021",
-      "url": "https://bit.ly/33DHBng"
    },
    {
       "nada": 1,
