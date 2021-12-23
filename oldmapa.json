@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Mutant Year Zero: Road to Eden",
+    "image": "https://i.ibb.co/q5DXGL2/mutantyearzero.jpg",
+    "background": "",
+    "description": "",
+    "price": "$20.00",
+    "date": "Dec 23 2021",
+    "url": "https://bit.ly/3mqpmbw"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Second Extinction™",
     "image": "https://i.ibb.co/gtZF0kX/Second-Extinction.jpg",
     "background": "",
