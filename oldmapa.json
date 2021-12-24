@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Vampyr",
+    "image": "https://i.ibb.co/CMPCYpg/vampyr.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 24 2021",
+    "url": "https://bit.ly/3sxEOqd"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Mutant Year Zero: Road to Eden",
     "image": "https://i.ibb.co/q5DXGL2/mutantyearzero.jpg",
     "background": "",
