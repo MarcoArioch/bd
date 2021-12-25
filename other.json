@@ -1,6 +1,18 @@
 [
    {
       "nada": 0,
+      "store": "Indiegala",
+      "coming": 0,
+      "name": "Santa Rockstar",
+      "image": "https://i.ibb.co/qdwG8bL/Santa-Rockstar.jpg",
+      "background": "",
+      "description": "",
+      "price": "$5.00",
+      "date": "Dec ?? 2021",
+      "url": "https://bit.ly/3FzhDiY"
+   },
+   {
+      "nada": 0,
       "store": "Itch.io",
       "coming": 0,
       "name": "Buckler 2",
