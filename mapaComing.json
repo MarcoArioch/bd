@@ -1,16 +1,4 @@
 [
-
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Prey",
-    "image": "https://i.ibb.co/L15R4Ys/PREY.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Dec 25 2021",
-    "url": "https://bit.ly/3plWJ14"
-  },
   {
     "store": "equis",
     "coming": 0,
@@ -19,7 +7,7 @@
     "background": "",
     "description": "",
     "price": "$5.00",
-    "date": "Dec 25 2021",
+    "date": "Dec 26 2021",
     "url": "https://bit.ly/3tDKM5C"
   }
 ]
