@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Control",
+    "image": "https://i.ibb.co/Sn73mjv/control.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 27 2021",
+    "url": "https://bit.ly/3cx9ZJ4"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Prey",
     "image": "https://i.ibb.co/L15R4Ys/PREY.jpg",
     "background": "",
