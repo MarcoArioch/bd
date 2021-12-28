@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Mages of Mystralia",
+    "image": "https://i.ibb.co/Dbv9CLF/Magesof-Mystralia.jpg",
+    "background": "",
+    "description": "",
+    "price": "$8.00",
+    "date": "Dec 28 2021",
+    "url": "https://bit.ly/3JmsPBB"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Control",
     "image": "https://i.ibb.co/Sn73mjv/control.jpg",
     "background": "",
