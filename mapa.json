@@ -2,13 +2,24 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Rise of the Tomb Raider: 20 year celebration",
-    "image": "https://i.ibb.co/tLmCFW6/tombraider.jpgg",
+    "name": "Rise of the Tomb Raider",
+    "image": "https://i.ibb.co/89hGDVd/riseoftombraider.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
     "date": "Dec 30 2021",
-    "url": "https://bit.ly/3JtXddr"
+    "url": "https://bit.ly/3tDKM5C"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Shadow of the Tomb Raider",
+    "image": "https://i.ibb.co/4KScJYR/shadow.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 30 2021",
+    "url": "https://bit.ly/3tDKM5C"
   }
 
 ]
