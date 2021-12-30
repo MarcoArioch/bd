@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "Salt and sanctuary",
+    "image": "https://i.ibb.co/hyFrNYQ/salt.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Dec 30 2021",
+    "url": "https://bit.ly/3ewd10Y"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Moving out",
     "image": "https://i.ibb.co/Z1byR2L/movingout.jpg",
     "background": "",
