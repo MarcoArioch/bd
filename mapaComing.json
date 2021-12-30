@@ -1,17 +1,6 @@
 [
   {
     "store": "equis",
-    "coming": 0,
-    "name": "Tomb Raider",
-    "image": "https://i.ibb.co/K609bL7/tombraider.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Dec 30 2021",
-    "url": "https://bit.ly/3tDKM5C"
-  },
-  {
-    "store": "equis",
     "coming": 1,
     "name": "10$ Coupon",
     "image": "https://i.ibb.co/hCHdzBj/coupon.jpg",
