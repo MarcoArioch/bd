@@ -11,7 +11,6 @@
       "date": "Dec ?? 2021",
       "url": "https://bit.ly/3HmPxYs"
    },
-
    {
       "coming": 0,
       "nada": 0,
@@ -23,30 +22,6 @@
       "price": "$3.99",
       "date": "Dec ?? 2021",
       "url": "https://bit.ly/2HC1G2K"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Indiegala",
-      "name": "Exit Limbo: Opening",
-      "image": "https://i.ibb.co/zJrpdXX/Exit-Limbo-Opening.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Dec ?? 2021",
-      "url": "https://bit.ly/3uZORlB"
-   },
-   {
-      "nada": 0,
-      "store": "Indiegala",
-      "coming": 0,
-      "name": "Die Young",
-      "image": "https://i.ibb.co/XzscMKM/DieYoung.jpg",
-      "background": "",
-      "description": "",
-      "price": "$5.00",
-      "date": "Dec ?? 2021",
-      "url": "https://bit.ly/3ppP4xw"
    },
    {
       "nada": 0,
@@ -111,18 +86,6 @@
    {
       "coming": 0,
       "nada": 0,
-      "store": "Indiegala",
-      "name": "NORTH",
-      "image": "https://i.ibb.co/nwbL8dR/NORTH.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Dec ?? 2021",
-      "url": "https://bit.ly/3sdHYiw"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
       "store": "GoG",
       "name": "The Witcher Goodies Collection",
       "image": "https://i.ibb.co/HPLxzn6/thewgc.jpg",
@@ -131,18 +94,6 @@
       "price": "$5.00",
       "date": "Jan 05 2022",
       "url": "https://bit.ly/3waPQ30"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Indiegala",
-      "name": "Snowball",
-      "image": "https://i.ibb.co/NTS46hK/Snowball.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Dec ?? 2021",
-      "url": "https://bit.ly/3IQiuO7"
    },
    {
       "nada": 0,
