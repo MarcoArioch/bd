@@ -14,6 +14,18 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "GoG",
+      "name": "The Witcher Goodies Collection",
+      "image": "https://i.ibb.co/HPLxzn6/thewgc.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Jan 05 2022",
+      "url": "https://bit.ly/3waPQ30"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Indiegala",
       "name": "Holiday Bonus GOLD",
       "image": "https://i.ibb.co/Rym7226/Holiday-Bonus-GOLD.jpg",
@@ -83,18 +95,7 @@
       "date": "Dec ?? 2021",
       "url": "https://bit.ly/3egt7Me"
    },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "GoG",
-      "name": "The Witcher Goodies Collection",
-      "image": "https://i.ibb.co/HPLxzn6/thewgc.jpg",
-      "background": "",
-      "description": " ",
-      "price": "$5.00",
-      "date": "Jan 05 2022",
-      "url": "https://bit.ly/3waPQ30"
-   },
+
    {
       "nada": 0,
       "store": "Steam",
