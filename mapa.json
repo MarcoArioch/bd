@@ -2,24 +2,13 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Rise of the Tomb Raider: 20 Year Celebration",
-    "image": "https://i.ibb.co/89hGDVd/riseoftombraider.jpg",
+    "name": "Gods Will Fall",
+    "image": "https://i.ibb.co/hWsynDg/Gods-Will-Fall.jpg",
     "background": "",
     "description": "",
     "price": "$5.00",
     "date": "Jan 06 2022",
-    "url": "https://bit.ly/3JtXddr"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Shadow of the Tomb Raider: Definitive Edition",
-    "image": "https://i.ibb.co/4KScJYR/shadow.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Jan 06 2022",
-    "url": "https://bit.ly/3JtkKem"
+    "url": "https://bit.ly/3sIoumv"
   }
 
 ]

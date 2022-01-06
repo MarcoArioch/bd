@@ -1,15 +1,5 @@
 [
-  {
-    "store": "equis",
-    "coming": 1,
-    "name": "Tomb Raider GOTY",
-    "image": "https://i.ibb.co/K609bL7/tombraider.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Jan 06 2022",
-    "url": "https://bit.ly/3sMmo50"
-  },
+
   {
     "store": "equis",
     "coming": 1,
@@ -20,16 +10,5 @@
     "price": "$5.00",
     "date": "Jan 06 2022",
     "url": "https://bit.ly/3yAJmwF"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Gods Will Fall",
-    "image": "https://i.ibb.co/hWsynDg/Gods-Will-Fall.jpg",
-    "background": "",
-    "description": "",
-    "price": "$5.00",
-    "date": "Jan 06 2022",
-    "url": "https://bit.ly/3sIoumv"
   }
 ]
