@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "10$ Coupon",
+    "image": "https://i.ibb.co/hCHdzBj/coupon.jpg",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Jan 06 2022",
+    "url": "https://bit.ly/3yAJmwF"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Rise of the Tomb Raider: 20 Year Celebration",
     "image": "https://i.ibb.co/89hGDVd/riseoftombraider.jpg",
     "background": "",
