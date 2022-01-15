@@ -291,18 +291,6 @@
     "nada": 0,
     "store": "Steam",
     "coming": 0,
-    "name": "Press Any Button",
-    "image": "https://i.ibb.co/6sccXpH/Press-Any-Button.jpg",
-    "background": "",
-    "description": "",
-    "price": "$0.00",
-    "date": "Jau 07 2021",
-    "url": "https://bit.ly/3wK8Nuf"
-  },
-  {
-    "nada": 0,
-    "store": "Steam",
-    "coming": 0,
     "name": "Nomads of Driftland",
     "image": "https://i.ibb.co/gJZKJhP/Nomadsof-Driftland.jpg",
     "background": "",
@@ -443,7 +431,7 @@
     "name": "Destiny 2",
     "image": "https://i.ibb.co/MGrzR8H/Destiny2.jpg",
     "price": "??.??",
-    "date": "Oct 01  2019",
+    "date": "Oct 01 2019",
     "url": "https://bit.ly/3bDpsHi"
   },
   {
@@ -509,7 +497,7 @@
     "name": "Samorost 1",
     "image": "https://i.ibb.co/vv6wDB8/Samorost1.jpg",
     "price": "??.??",
-    "date": "May 20  2021",
+    "date": "May 20 2021",
     "url": "https://bit.ly/3fzGbwj"
   },
   {
