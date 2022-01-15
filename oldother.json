@@ -2,6 +2,30 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "Indiegala",
+      "name": "Garfield Kart",
+      "image": "https://i.ibb.co/vzwB6ps/garfieldkart.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$1.29",
+      "date": "Jan ?? 2022",
+      "url": "https://bit.ly/3a8rTkZ"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
+      "store": "Indiegala",
+      "name": "Nostradamus: The Last Prophecy",
+      "image": "https://i.ibb.co/ZYQHYR6/Nostradamus-The-Last-Prophecy.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Jan ?? 2022",
+      "url": "https://bit.ly/3HrwaxC"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Microsoft",
       "name": "Rabbit of Destiny",
       "image": "https://store-images.s-microsoft.com/image/apps.1185.13709361811569658.27654e9c-75e1-4fd1-8571-c0b08f3b7004.2824be63-9636-4709-b09d-bcedfbf0c20d?q=90&w=177&h=265",
@@ -10,6 +34,18 @@
       "price": "$5.00",
       "date": "Jan ?? 2022",
       "url": "https://bit.ly/3eWrsvt"
+   },
+   {
+      "nada": 0,
+      "store": "Steam - DLC",
+      "coming": 0,
+      "name": "DLC - Minion Masters - Invasion",
+      "image": "https://i.ibb.co/qrHyb8z/Minion.jpg",
+      "background": "",
+      "description": "",
+      "price": "$9.00",
+      "date": "Jan ?? 2022",
+      "url": "https://bit.ly/3t1uHdd"
    },
    {
       "nada": 0,
