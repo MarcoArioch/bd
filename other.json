@@ -14,6 +14,18 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "Itch.io",
+      "name": "Hell's Island",
+      "image": "https://www.giantbomb.com/a/uploads/scale_small/54/541262/3310379-maincover.jpg",
+      "background": "",
+      "description": " ",
+      "price": "$5.00",
+      "date": "Jan ?? 2022",
+      "url": "https://bit.ly/3FCXaZw"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Steam DLC",
       "name": "KARDS - Starter Pack",
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1869350/header.jpg?t=1642183218",
