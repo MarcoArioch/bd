@@ -2,6 +2,18 @@
    {
       "coming": 0,
       "nada": 0,
+      "store": "Steam DLC",
+      "name": "KARDS - Starter Pack",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1869350/header.jpg?t=1642183218",
+      "background": "",
+      "description": " ",
+      "price": "$6.00",
+      "date": "Jan 21 2022",
+      "url": "https://bit.ly/3rm2sUn"
+   },
+   {
+      "coming": 0,
+      "nada": 0,
       "store": "Indiegala",
       "name": "Garfield Kart",
       "image": "https://i.ibb.co/vzwB6ps/garfieldkart.jpg",
