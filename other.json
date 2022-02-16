@@ -50,30 +50,6 @@
    {
       "coming": 0,
       "nada": 0,
-      "store": "Steam - DLC",
-      "name": "Kingdom Come: Deliverance - The Amorous Adventures of Bold Sir Hans Capon",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/921950/header.jpg?t=1644585940",
-      "background": "",
-      "description": " ",
-      "price": "$3.50",
-      "date": "Feb 14 2022",
-      "url": "https://bit.ly/3suINC6"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
-      "store": "Steam - DLC",
-      "name": "World of Tanks — French Express Pack",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/header_latam.jpg?t=1644493817",
-      "background": "",
-      "description": " ",
-      "price": "$5.50",
-      "date": "Feb 14 2022",
-      "url": "https://bit.ly/3oIGOsL"
-   },
-   {
-      "coming": 0,
-      "nada": 0,
       "store": "Itch.io",
       "name": "Hampton Court",
       "image": "https://img.itch.zone/aW1nLzE3Njk2MzQuanBn/original/17ARUQ.jpg",
@@ -95,19 +71,6 @@
       "date": "Feb ?? 2022",
       "url": "https://bit.ly/3zvgAOK"
    },
-   {
-      "nada": 0,
-      "store": "Steam - DLC",
-      "coming": 0,
-      "name": "Neon Abyss - Chrono Trap",
-      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/header.jpg?t=1643300645",
-      "background": "",
-      "description": "",
-      "price": "$0.00",
-      "date": "Feb 03 2022",
-      "url": "https://bit.ly/3s0qDbj"
-   },
-
    {
       "coming": 0,
       "nada": 0,
@@ -132,7 +95,6 @@
       "date": "Feb ?? 2022",
       "url": "https://bit.ly/3KfJNC6"
    },
-
    {
       "nada": 0,
       "store": "Steam",
