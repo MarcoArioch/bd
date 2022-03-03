@@ -2,12 +2,34 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Cris Tales",
-    "image": "https://cdn1.epicgames.com/ef361cdf19514595a8cb0945fb66962e/offer/EGS_AgorgeousindielovelettertoclassicJRPGs_DreamsUncorporatedSYCK_S1-2560x1440-8c27d8ecb673f1438c6a4b0da48ff880.jpg?h=480&resize=1&w=854",
+    "name": "Black Widow: Recharged",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackWidowRecharged_AdamVisionSneakyBox_S2_1200x1600-d2fd7ae525a6162f045ea4f1337db25c?h=854&resize=1&w=640",
     "background": "",
     "description": "",
-    "price": "$32.00",
-    "date": "Mar 03 2022",
-    "url": "https://bit.ly/3GWEGE7"
+    "price": "$4.00",
+    "date": "Mar 10 2022",
+    "url": "https://bit.ly/3Hon18I"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Centipede: Recharged",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_CentipedeRecharged_AdamVisionSneakyBox_S2_1200x1600-c21cc55f661ac17b68c78c90b38dca52?h=854&resize=1&w=640",
+    "background": "",
+    "description": "",
+    "price": "$4.00",
+    "date": "Mar 10 2022",
+    "url": "https://bit.ly/3vcpmkz"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Dauntless epic slayer kit",
+    "image": "https://cdn1.epicgames.com/offer/jackal/Epic_ShiningMaulHammerBundle_PortraitOffer1200x1600_1200x1600-a1b869dd617f5144387bd25dddd443ea_1200x1600-a1b869dd617f5144387bd25dddd443ea?h=854&resize=1&w=640",
+    "background": "",
+    "description": "",
+    "price": "$5.00",
+    "date": "Mar 10 2022",
+    "url": "https://bit.ly/3BLxc5K"
   }
 ]
