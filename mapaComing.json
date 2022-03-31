@@ -3,23 +3,23 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "",
-    "image": "",
+    "name": "Rogue Legacy",
+    "image": "https://cdn1.epicgames.com/offer/66ce501aea0a424cb80cfe5f31f80f03/EGS_RogueLegacy_CellarDoorGames_S2_1200x1600-0c21e16789c61834252b65db0847585a?h=854&resize=1&w=640",
     "background": "",
     "description": "",
     "price": "$5.99",
     "date": "Apr 07 2022",
-    "url": ""
+    "url": "https://bit.ly/3DtO7e7"
   },
   {
     "store": "equis",
     "coming": 0,
-    "name": "",
+    "name": "The Vanishing of Ethan Carter",
     "image": "https://cdn1.epicgames.com/offer/f401d7e187e349138380d22e991b29ca/EGS_TheVanishingofEthanCarter_TheAstronauts_S2_1200x1600-7c91a065dc24801d711197ce8ecb7194_1200x1600-7c91a065dc24801d711197ce8ecb7194?h=854&resize=1&w=640",
     "background": "",
     "description": "",
     "price": "$5.99",
     "date": "Apr 07 2022",
-    "url": ""
+    "url": "https://bit.ly/3uFXnrG"
   }
 ]
