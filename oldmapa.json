@@ -2,6 +2,17 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "DEMON'S TILT",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DEMONSTILT_WIZNWAR_S1_2560x1440-bfaff7f0ea54f6b901b95154e4cc20ab?h=480&resize=1&w=854",
+    "background": "",
+    "description": "",
+    "price": "$15.99",
+    "date": "Mar 31 2022",
+    "url": "https://bit.ly/3wbxmml"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "In Sound Mind",
     "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_InSoundMind_WeCreateStuff_S3_2560x1440-78d2b96f4772d724e6f003a1e88f4844?h=480&resize=1&w=854",
     "background": "",
