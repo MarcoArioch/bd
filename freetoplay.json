@@ -15,18 +15,6 @@
     "nada": 0,
     "store": "Steam",
     "coming": 0,
-    "name": "TEST",
-    "image": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg",
-    "background": "",
-    "description": "",
-    "price": "$0.00",
-    "date": "2022",
-    "url": "https://bit.ly/3Ap3xO3"
-  },
-  {
-    "nada": 0,
-    "store": "Steam",
-    "coming": 0,
     "name": "Lost Ark",
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599340/header.jpg?t=1644342716",
     "background": "",
