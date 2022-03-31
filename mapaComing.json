@@ -3,23 +3,23 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "City of Brass",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/301840/capsule_616x353.jpg?t=1575932408",
+    "name": "",
+    "image": "",
     "background": "",
     "description": "",
     "price": "$5.99",
-    "date": "Mar 31 2022",
-    "url": "https://bit.ly/3NeEgNT"
+    "date": "Apr 07 2022",
+    "url": ""
   },
   {
     "store": "equis",
     "coming": 0,
-    "name": "Total War: WARHAMMER",
-    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TotalWarWARHAMMER_CREATIVEASSEMBLY_S5_1920x1080-d80e36258e890a67e4e514ecc425ec6e?h=480&resize=1&w=854",
+    "name": "",
+    "image": "",
     "background": "",
     "description": "",
     "price": "$5.99",
-    "date": "Mar 31 2022",
-    "url": "https://bit.ly/3up2tsa"
-  }
+    "date": "Apr 07 2022",
+    "url": ""
+  },
 ]
