@@ -578,7 +578,9 @@
     "store": "Steam",
     "coming": 0,
     "name": "Samorost 1",
-    "image": "https://i.ibb.co/vv6wDB8/Samorost1.jpg",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580970/header.jpg?t=1639653493",
+    "background": "",
+    "description": "h",
     "price": "??.??",
     "date": "May 20 2021",
     "url": "https://bit.ly/3fzGbwj"
