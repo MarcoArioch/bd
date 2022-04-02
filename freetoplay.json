@@ -25,18 +25,6 @@
   },
   {
     "nada": 0,
-    "store": "Steam",
-    "coming": 0,
-    "name": "Century: Age of Ashes",
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/918570/header.jpg?t=1641384438",
-    "background": "",
-    "description": "h",
-    "price": "$0.00",
-    "date": "Dec 02 2021",
-    "url": "https://bit.ly/2ZVzKzQ"
-  },
-  {
-    "nada": 0,
     "store": "Epic Store",
     "coming": 0,
     "name": "Rogue Company",
@@ -46,6 +34,18 @@
     "price": "$0.00",
     "date": "2020",
     "url": "https://bit.ly/36PKAZj"
+  },
+  {
+    "nada": 0,
+    "store": "Steam",
+    "coming": 0,
+    "name": "Century: Age of Ashes",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/918570/header.jpg?t=1641384438",
+    "background": "",
+    "description": "h",
+    "price": "$0.00",
+    "date": "Dec 02 2021",
+    "url": "https://bit.ly/2ZVzKzQ"
   },
   {
     "nada": 0,
