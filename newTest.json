@@ -8,7 +8,7 @@
     "store": "Epic Games",
     "price": 0.00,
     "date": "13-04-22",
-    "coming": false,
+    "coming": false
   },
   {
     "id": "ED802D50FEDB41C65DAA7829950EDF18",
@@ -19,6 +19,6 @@
     "store": "Epic Games",
     "price": 0.00,
     "date": "13-04-22",
-    "coming": false,
-  },
+    "coming": false
+  }
 ]
