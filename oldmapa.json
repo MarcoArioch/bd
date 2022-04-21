@@ -2,6 +2,28 @@
   {
     "store": "equis",
     "coming": 0,
+    "name": "XCOM® 2",
+    "image": "https://cdn1.epicgames.com/offer/7ec453d446194b8f8afe82aaa9561211/XCOM2_Set_Up_Assets_1200x1600_1200x1600-4b0c6e42af847235877992095e154563_1200x1600-4b0c6e42af847235877992095e154563?h=854&resize=1&w=640",
+    "background": "",
+    "description": "",
+    "price": "$5.99",
+    "date": "Apr 21 2022",
+    "url": "https://bit.ly/3JdwqRn"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
+    "name": "Insurmountable",
+    "image": "https://cdn1.epicgames.com/spt-assets/dbc7343b22614dab86a493df7ba9803d/download-insurmountable-offer-eadfm.jpg?h=854&resize=1&w=640",
+    "background": "",
+    "description": "",
+    "price": "$5.99",
+    "date": "Apr 21 2022",
+    "url": "https://bit.ly/36UHEgB"
+  },
+  {
+    "store": "equis",
+    "coming": 0,
     "name": "Rogue Legacy",
     "image": "https://cdn1.epicgames.com/offer/66ce501aea0a424cb80cfe5f31f80f03/EGS_RogueLegacy_CellarDoorGames_S2_1200x1600-0c21e16789c61834252b65db0847585a?h=854&resize=1&w=640",
     "background": "",
