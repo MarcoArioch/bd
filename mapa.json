@@ -2,23 +2,24 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Riverbond",
-    "image": "https://cdn1.epicgames.com/spt-assets/9d351e3efed04d1daa1fd6d7f8934f68/riverbond-offer-16k4h.jpg?h=480&resize=1&w=854",
+    "name": "Just Die Already",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe?h=854&resize=1&w=640",
     "background": "",
     "description": "",
     "price": "$5.99",
-    "date": "Apr 28 2022",
-    "url": "https://bit.ly/37hfuME"
+    "date": "May 05 2022",
+    "url": "https://bit.ly/3v5TMEM"
   },
   {
     "store": "equis",
     "coming": 0,
-    "name": "Amnesia: Rebirth",
-    "image": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg?h=854&resize=1&w=640",
+    "name": "Paradigm",
+    "image": "https://cdn1.epicgames.com/spt-assets/8e9d84a3fd2b4a3cbe4ac6b89ce9789d/download-paradigm-offer-s55mk.jpg?h=854&resize=1&w=640s",
     "background": "",
     "description": "",
     "price": "$5.99",
-    "date": "Apr 28 2022",
-    "url": "https://bit.ly/3K0nYoN"
-  }  
+    "date": "May 05 2022",
+    "url": "https://bit.ly/3OtYlA5"
+  }
+
 ]

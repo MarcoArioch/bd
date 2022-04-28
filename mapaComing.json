@@ -2,23 +2,12 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Just Die Already",
-    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_JustDieAlready_DoubleMoose_S6_1200x1600-577891f9b98a2f9fb55adcaae4ed5ebe?h=854&resize=1&w=640",
+    "name": "Terraforming Mars",
+    "image": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-offer-1j70f.jpg?h=480&resize=1&w=854",
     "background": "",
     "description": "",
     "price": "$5.99",
-    "date": "Apr 28 2022",
-    "url": "https://bit.ly/3v5TMEM"
-  },
-  {
-    "store": "equis",
-    "coming": 0,
-    "name": "Paradigm",
-    "image": "https://cdn1.epicgames.com/spt-assets/8e9d84a3fd2b4a3cbe4ac6b89ce9789d/download-paradigm-offer-s55mk.jpg?h=854&resize=1&w=640s",
-    "background": "",
-    "description": "",
-    "price": "$5.99",
-    "date": "Apr 28 2022",
-    "url": "https://bit.ly/3OtYlA5"
+    "date": "May 05 2022",
+    "url": "https://bit.ly/3MTUOK7"
   }
 ]
