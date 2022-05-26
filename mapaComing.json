@@ -2,12 +2,12 @@
   {
     "store": "equis",
     "coming": 0,
-    "name": "Terraforming Mars",
-    "image": "https://cdn1.epicgames.com/spt-assets/5199b206e46947ebad5e5c282e95776f/terraforming-mars-offer-1j70f.jpg?h=480&resize=1&w=854",
+    "name": "",
+    "image": "",
     "background": "",
     "description": "",
-    "price": "$5.99",
-    "date": "May 05 2022",
-    "url": "https://bit.ly/3MTUOK7"
+    "price": "$",
+    "date": "",
+    "url": ""
   }
 ]
